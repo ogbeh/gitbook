@@ -16,6 +16,7 @@
 * [Mac OS Setup Guide](mac-os-setup-guide/README.md)
   * [(Recommended) Cone App - Mac](mac-os-setup-guide/recommended-cone-app-mac.md)
   * [Clash X for Mac](mac-os-setup-guide/clash-x-for-mac.md)
+  * [FLClash for Mac](mac-os-setup-guide/flclash-for-mac.md)
   * [Clash X for Mac](mac-os-setup-guide/clash-x-for-mac-1.md)
 * [Windows Setup Guide](windows-setup-guide/README.md)
   * [(Recommended) Cone App - Windows](windows-setup-guide/recommended-cone-app-windows.md)

@@ -8,7 +8,7 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ## Step 1: Download & Installation
 
-Download and install the FlClash app on your system using any of the links below &#x20;
+Download and install the FlClash app on your windows PC using any of the links below &#x20;
 
 [**Download Link 1**](https://app.alekwu.top/soft/windows/FlClash_windows.exe)
 
