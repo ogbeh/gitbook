@@ -25,29 +25,26 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 ### Manual import
 
 1. Head to your [Dashboard](https://dash.coneapp.top)
-2. Scroll to the _Quick Import_ section _and &#x74;_&#x61;p on _Copy_&#x20;
+2. Scroll to the _Quick Import_ section _and &#x74;_&#x61;p on _Copy_ to copy your subscription URL
 
 <figure><img src="../.gitbook/assets/Weixin Image_20250113135432.png" alt="" width="375"><figcaption><p>Copy Subscription Link</p></figcaption></figure>
 
-3. Open the Clash app, tap on _Profiles_  >  ➕  >  **URL** Import from URL
+3. Open the FLClash app, tap on _Profiles_  >  ➕  >  **URL** Obtain profile through URL
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-3.png" alt=""><figcaption></figcaption></figure>
 
-4. There are three fields on the URL page; please fill them accordingly.&#x20;
-   1. <mark style="color:blue;">Name</mark>: "Cone" _without quotes_
-   2. <mark style="color:blue;">URL</mark>: Paste your subscription link
-   3. <mark style="color:blue;">Auto Update</mark>: 180
-5. Tap the _**Save**_ icon at the top-right to update.
+4. Paste your subscription URL.
+5. After Import successful, tap on **Proxies** to select a location
 
-<figure><img src="../.gitbook/assets/image (85).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5-7.png" alt=""><figcaption></figcaption></figure>
 
 6. Select the Profiles option > Tap on the profile to enable it&#x20;
 
 <figure><img src="../.gitbook/assets/image (86).png" alt="" width="375"><figcaption><p>Enable profile</p></figcaption></figure>
 
-7. Tap to Start  >  Allow Connection requests (Depends on your device) &#x20;
+7. Tap to ▶️>  Allow Connection requests (Depends on your device) &#x20;
 
-<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8-10.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 3. Selecting Servers
 
