@@ -22,7 +22,7 @@ NOTE: Please use the alternate download link if Download Link 1 does not work
 
 ### Manual import
 
-1. Head to your [Dashboard](https://dash.coneapp.top)
+1. [Click me to login your account dashboard](https://dash.coneapp.top)
 2. Scroll to the _Quick Import_ section _and &#x74;_&#x61;p on _Copy_&#x20;
 
 <figure><img src="../.gitbook/assets/Weixin Image_20250113135432.png" alt="" width="375"><figcaption></figcaption></figure>
