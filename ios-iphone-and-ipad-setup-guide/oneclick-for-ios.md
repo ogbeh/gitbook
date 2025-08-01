@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # OneClick for iOS
 
 {% hint style="danger" %}

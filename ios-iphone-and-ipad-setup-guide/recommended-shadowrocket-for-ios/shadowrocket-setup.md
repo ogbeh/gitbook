@@ -29,7 +29,7 @@ Please choose your preferred setup method based on your needs:
 
 ### One-Click Setup
 
-1. Head to your [Dashboard](https://dash.coneapp.top)&#x20;
+1. [Click me to login to your account dashboard](https://dash.coneapp.top)&#x20;
 2. Scroll to the **Quick Import** section and tap on **Shadowrocket Subscribe**
 3. Enable Background Update
 4. Wait for the servers to update and then [connect to the service](shadowrocket-setup.md#step-2-connect)
