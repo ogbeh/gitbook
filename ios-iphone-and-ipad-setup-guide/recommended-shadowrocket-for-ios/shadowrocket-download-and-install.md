@@ -16,25 +16,21 @@ Shadowrocket is not available on Chinese-mainland apple accounts&#x20;
 
 1. Open the app store and tap the profile️ 🙍‍♂️ icon at the top right.
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure>
 
 2. Scroll to the bottom and tap on Sign out, then scroll to the top and sign in using our Apple ID
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Notify customer care if it asks for a verification code
 {% endhint %}
 
-{% hint style="warning" %}
-If it asks to enable Two-factor authentication, tap on Other Options > Do not upgrade
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (10).png" alt="" data-size="original">
-{% endhint %}
+<figure><img src="../../.gitbook/assets/8 (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
-
-
-Once logged in, search for the Shadowrocket app and download it
+3. Once logged in, search for the Shadowrocket app and download it
 
 <figure><img src="../../.gitbook/assets/WeChat Image_20221028000536.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
