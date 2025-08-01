@@ -6,7 +6,7 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ## Step 1. Download and Installation
 
-> The Clash repository on Github has been deleted, Please download from auxiliary mirrors below
+> Github download is typically slow or inaccesible from mainland china,please use alternative links below
 
 1. Download and install the FLClash app on your Android device using the link(s) below.
 
@@ -24,34 +24,31 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ### Manual import
 
-1. Head to your [Dashboard](https://dash.coneapp.top)
+1. [Click me to login your account dashboard ](https://dash.coneapp.top)
 2. Scroll to the _Quick Import_ section _and &#x74;_&#x61;p on _Copy_ to copy your subscription URL
 
 <figure><img src="../.gitbook/assets/Weixin Image_20250113135432.png" alt="" width="375"><figcaption><p>Copy Subscription Link</p></figcaption></figure>
 
 3. Open the FLClash app, tap on _Profiles_  >  ➕  >  **URL** Obtain profile through URL
 
-<figure><img src="../.gitbook/assets/1-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Paste your subscription URL.
-5. After Import successful, tap on **Proxies** to select a location
+5. After Import successful, tap on **Proxies** to select a location.
+6. After selecting a location, tap on Dashboard
 
-<figure><img src="../.gitbook/assets/5-7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5-7.png" alt="" width="563"><figcaption></figcaption></figure>
 
-6. Select the Profiles option > Tap on the profile to enable it&#x20;
+7. Tap on ▶️>  Accept the Connection request (Depends on your device) &#x20;
 
-<figure><img src="../.gitbook/assets/image (86).png" alt="" width="375"><figcaption><p>Enable profile</p></figcaption></figure>
-
-7. Tap to ▶️>  Allow Connection requests (Depends on your device) &#x20;
-
-<figure><img src="../.gitbook/assets/8-10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8-10.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Step 3. Selecting Servers
 
-1. Tap on Proxy
-2. Pick any server of your choice listed
+1. Tap on Proxies
+2. Pick your prefered location
 
-<figure><img src="../.gitbook/assets/image (90).png" alt="" width="563"><figcaption><p>Change Servers</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/proxies.png" alt="" width="563"><figcaption><p>Change Servers</p></figcaption></figure>
 
 {% hint style="info" %}
 Note;
