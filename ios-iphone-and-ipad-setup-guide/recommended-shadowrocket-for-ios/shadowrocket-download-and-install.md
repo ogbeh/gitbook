@@ -10,9 +10,13 @@ If you have trouble setting up, please contact customer care on Telegram. [Click
 Shadowrocket is not available on Chinese-mainland apple accounts&#x20;
 {% endhint %}
 
+## **IMPORTANT**
+
 {% hint style="success" %}
-[**Click here to get our Apple account**](https://app.alekwu.top/soft/shrkios.html)**.** You will need this to proceed
+[<kbd>**Click here to get our Apple account**</kbd>](https://app.alekwu.top/soft/shrkios.html)<kbd>**.**</kbd> <kbd></kbd><kbd>You will need this to proceed</kbd>
 {% endhint %}
+
+
 
 1. Open the app store and tap the profile️ 🙍‍♂️ icon at the top right.
 
