@@ -38,7 +38,7 @@ Notify customer care if it asks for a verification code
 
 <figure><img src="../../.gitbook/assets/WeChat Image_20221028000536.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-After successful installation, proceed to the next step.
+### **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](shadowrocket-setup.md)
 
 {% content-ref url="shadowrocket-setup.md" %}
 [shadowrocket-setup.md](shadowrocket-setup.md)
