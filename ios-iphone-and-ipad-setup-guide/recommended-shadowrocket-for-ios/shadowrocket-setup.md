@@ -67,7 +67,7 @@
 
 ***
 
-### 🔌 Step 2: Connect
+## 🔌 Step 2: Connect
 
 1. In Shadowrocket, select any server from the list
 2. Tap the **switch** (top-right) to turn it on
