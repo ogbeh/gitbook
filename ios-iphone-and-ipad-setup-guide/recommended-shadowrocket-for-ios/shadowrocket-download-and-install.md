@@ -36,7 +36,7 @@ If you don’t want to log in with our account,\
 
 ***
 
-### 📲 Step-by-Step Guide (Free Method Using Our Apple ID)
+## 📲 Step-by-Step Guide (Free Method Using Our Apple ID)
 
 ### 🔐 Step 1: Get Our Apple ID Login
 
