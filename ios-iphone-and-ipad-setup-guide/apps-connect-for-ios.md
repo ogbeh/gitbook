@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Apps Connect for iOS
 
 {% hint style="info" %}
