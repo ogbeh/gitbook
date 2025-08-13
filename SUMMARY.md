@@ -13,6 +13,8 @@
     * [Shadowrocket Download and Install](ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-download-and-install.md)
     * [🚀 Install Shadowrocket on iOS (Super Easy Guide)](ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/install-shadowrocket-on-ios-super-easy-guide.md)
     * [Shadowrocket Setup](ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup.md)
+    * [Copy of Shadowrocket Setup](ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/copy-of-shadowrocket-setup.md)
+    * [Shadowrocket Setup X](ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup-x.md)
   * [OneClick for iOS](ios-iphone-and-ipad-setup-guide/oneclick-for-ios.md)
   * [Apps Connect for iOS](ios-iphone-and-ipad-setup-guide/apps-connect-for-ios.md)
 * [Mac OS Setup Guide](mac-os-setup-guide/README.md)

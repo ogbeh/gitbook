@@ -11,11 +11,14 @@ Shadowrocket is not available on Chinese-mainland apple accounts
 
 ### 🧠 READ THIS FIRST – MOST PEOPLE GET STUCK HERE
 
+**⚠ VERY IMPORTANT: This is the part many customers miss!**\
+You are not logging into iCloud — you are **logging into the App Store only**.
+
 #### ✅ To download Shadowrocket using our free method:
 
 > ❗**You MUST:**
 >
-> * **Sign OUT** of your own Apple ID
+> * **Sign OUT** of your own Apple ID in the app store only
 > * **Sign IN** using the Apple ID we give you
 > * Only then can you download the app
 
@@ -64,6 +67,10 @@ Once logged in, search “Shadowrocket” and tap **GET** to download.
 ### 🎉 Done Installing? Set It Up&#x20;
 
 ### 👉 **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](https://help.coneapp.top/ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup)
+
+{% content-ref url="shadowrocket-setup.md" %}
+[shadowrocket-setup.md](shadowrocket-setup.md)
+{% endcontent-ref %}
 
 ***
 
