@@ -6,13 +6,13 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ***
 
-## Step 1: Download & Installation
+### **🚀 Step 1: Get FlClash on Your PC**
 
-Download and install the FlClash app on your windows PC using any of the links below &#x20;
+#### 1. Download FlClash
 
-[**Download Link 1**](https://app.alekwu.top/soft/windows/FlClash_windows.exe)
-
-[**Alternate Download Link**](https://www.mediafire.com/file/26587fu6hvhojzs/FlClash-0.8.80-windows.exe/file)
+Click one of these links:\
+[📥 **Download Link 1**](https://app.alekwu.top/soft/windows/FlClash_windows.exe)\
+[📥 **Alternate Download**](https://www.mediafire.com/file/26587fu6hvhojzs/FlClash-0.8.80-windows.exe/file)
 
 ***
 
@@ -23,27 +23,33 @@ Download and install the FlClash app on your windows PC using any of the links b
 
 ***
 
-## Step 3: Server setup
+### **🌍 Step 2: Add the Servers**
 
 {% hint style="success" %}
 Please choose your preferred setup method based on your needs:
 
-***
-
-* **One-Click Setup**: Quick and easy.
-* **Manual Setup**: For more customization and control.
+Choose **One-Click Setup** if you want it fast.\
+Choose **Manual Setup** only if One-Click doesn’t work.
 {% endhint %}
 
 ### Option 1 (Recommended): One-Click Setup
 
-1. Head to your [Dashboard](https://dash.coneapp.top)&#x20;
+1. [**Login to your account dashboard**](https://dash.coneapp.top/) **(Sign in with your registered email and password)**
 2. Scroll to the Quick Import section and tap on **Clash Subscribe**
 
 <figure><img src="../.gitbook/assets/1736864952658.png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. A new prompt should appear; select the _Open Clash for Windows_
+3. A new prompt should appear; select the _Open FlClash for Windows_
 
-<figure><img src="../.gitbook/assets/image (54).png" alt="" width="430"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/031e41d1-d962-4358-bcc1-a811ab924364.png" alt="" width="459"><figcaption></figcaption></figure>
+
+4. Click on **Confirm** in the FlClash application
+
+<figure><img src="../.gitbook/assets/f83d2e7d-8368-433f-a74c-e3842d588200.png" alt="" width="558"><figcaption></figcaption></figure>
+
+4. [**Go to Step 4 to connect**](flclash-for-windows.md#step-4-connect)
+
+
 
 {% hint style="warning" %}
 If One-Click setup does not work, please follow the manual setup below
@@ -53,7 +59,7 @@ If One-Click setup does not work, please follow the manual setup below
 
 ### &#x20;Option 2: Manual Setup
 
-1. Head to your [dashboard](https://dash.coneapp.top)
+1. [**Login to your account dashboard**](https://dash.coneapp.top/) **(Sign in with your registered email and password)**
 2. Scroll to the Quick Import section and tap on Copy
 
 <figure><img src="../.gitbook/assets/1736863160559 (1).png" alt="" width="563"><figcaption></figcaption></figure>

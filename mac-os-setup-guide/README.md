@@ -14,3 +14,7 @@ Choose the app that best fits your requirements, and follow the setup instructio
 {% content-ref url="clash-x-for-mac-1.md" %}
 [clash-x-for-mac-1.md](clash-x-for-mac-1.md)
 {% endcontent-ref %}
+
+{% content-ref url="flclash-for-mac.md" %}
+[flclash-for-mac.md](flclash-for-mac.md)
+{% endcontent-ref %}

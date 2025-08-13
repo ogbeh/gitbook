@@ -12,7 +12,7 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ## Step 1: Download & Install on Mac
 
-Download the Clash app on your Mac computer using the link(s) below;
+Download the FLClash app on your Mac computer using the link(s) below;
 
 [**Download Link 1**](https://app.alekwu.top/soft/mac/clashX.dmg)
 
