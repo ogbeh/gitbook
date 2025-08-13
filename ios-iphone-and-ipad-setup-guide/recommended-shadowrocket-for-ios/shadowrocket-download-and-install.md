@@ -66,7 +66,7 @@ Once logged in, search “Shadowrocket” and tap **GET** to download.
 
 ### 🎉 Done Installing? Set It Up&#x20;
 
-### 👉 **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](https://help.coneapp.top/ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup)
+#### 👉 **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](https://help.coneapp.top/ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup)
 
 {% content-ref url="shadowrocket-setup.md" %}
 [shadowrocket-setup.md](shadowrocket-setup.md)
@@ -76,7 +76,7 @@ Once logged in, search “Shadowrocket” and tap **GET** to download.
 
 ### Frequently Asked Questions
 
-### 🔐 Is It Safe to Use Our Apple ID?
+#### 🔐 Is It Safe to Use Our Apple ID?
 
 > ✅ **Yes — 100% safe.**\
 > You are **only signing into the App Store**, not your whole iPhone.
