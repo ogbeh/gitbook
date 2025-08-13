@@ -5,6 +5,10 @@
 👉 [**Click here to chat with Customer Support**](https://t.me/conesupport)
 {% endhint %}
 
+{% hint style="danger" %}
+Shadowrocket is not available on Chinese-mainland apple accounts
+{% endhint %}
+
 ### 🧠 READ THIS FIRST – MOST PEOPLE GET STUCK HERE
 
 #### ✅ To download Shadowrocket using our free method:
