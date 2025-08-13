@@ -1,45 +1,78 @@
 # Shadowrocket Download and Install
 
 {% hint style="info" %}
-If you have trouble setting up, please contact customer care on Telegram. [Click me to connect to Customer care Telegram](https://t.me/conesupport)
+💬 **Need help?** Talk to us on Telegram:\
+👉 [**Click here to chat with Customer Support**](https://t.me/conesupport)
 {% endhint %}
 
-## Step 1: Download Shadowrocket for iOS
+### 🧠 READ THIS FIRST – MOST PEOPLE GET STUCK HERE
 
-{% hint style="danger" %}
-Shadowrocket is not available on Chinese-mainland apple accounts&#x20;
-{% endhint %}
+#### ✅ To download Shadowrocket using our free method:
 
-## **IMPORTANT**
+> ❗**You MUST:**
+>
+> * **Sign OUT** of your own Apple ID
+> * **Sign IN** using the Apple ID we give you
+> * Only then can you download the app
 
-{% hint style="success" %}
-[<kbd>**Click here to get our Apple account**</kbd>](https://app.alekwu.top/soft/shrkios.html)<kbd>**.**</kbd> <kbd></kbd><kbd>You will need this to proceed</kbd>
-{% endhint %}
+**⚠️ If you skip this step, it WILL NOT work!**\
+If you encounter any issues during the process, just message us on Telegram.
 
+***
 
+#### 🔄 OR – You Can Just Buy It Instead
 
-1. Open the app store and tap the profile️ 🙍‍♂️ icon at the top right.
+If you don’t want to log in with our account,\
+👉 [**Buy Shadowrocket on App Store ($2.99)**](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
-<figure><img src="../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure>
+✅ Use a **non-China mainland Apple ID** like US, Hong Kong, etc.
 
-2. Scroll to the bottom and tap on Sign out, then scroll to the top and sign in using our Apple ID
+***
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+### 📲 Step-by-Step Guide (Free Method Using Our Apple ID)
 
-{% hint style="danger" %}
-Notify customer care if it asks for a verification code
+### 🔐 Step 1: Get Our Apple ID Login
+
+👉 [**Click here to get our Apple ID**](https://app.alekwu.top/soft/shrkios.html)
+
+### 👣 Step 2:  Sign into the App Store
+
+1. Tap the icon at the top-right corner of the screen.
+2. Scroll to the bottom and tap **Sign Out**
+3. Scroll to the top and sign into our Apple ID
+
+<div align="left"><figure><img src="../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (95).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+**DO NOT** Add your phone number during sign in
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/8 (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
-3. Once logged in, search for the Shadowrocket app and download it
 
-<figure><img src="../../.gitbook/assets/WeChat Image_20221028000536.jpg" alt="" width="563"><figcaption></figcaption></figure>
+### 🔍 Step 3: Search for “Shadowrocket” & Download It
 
-### **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](shadowrocket-setup.md)
+Once logged in, search “Shadowrocket” and tap **GET** to download.
 
-{% content-ref url="shadowrocket-setup.md" %}
-[shadowrocket-setup.md](shadowrocket-setup.md)
-{% endcontent-ref %}
+<figure><img src="../../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### 🎉 Done Installing? Set It Up&#x20;
+
+### 👉 **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](https://help.coneapp.top/ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup)
+
+***
+
+### Frequently Asked Questions
+
+### 🔐 Is It Safe to Use Our Apple ID?
+
+> ✅ **Yes — 100% safe.**\
+> You are **only signing into the App Store**, not your whole iPhone.
+
+* Your contacts, photos, and messages **will not be affected**
+* Your iCloud or device settings **stay untouched**
+* After download, it will **automatically switch back** to your original Apple ID
+* You can still log back into your own Apple ID any time
+
+**💡 You're only using our Apple ID temporarily to download Shadowrocket. That’s it.**
