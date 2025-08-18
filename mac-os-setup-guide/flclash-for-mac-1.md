@@ -1,4 +1,4 @@
-# Clash X for Mac
+# FLClash for Mac
 
 {% hint style="info" %}
 If you have trouble setting up, Please contact customer care on Telegram [Click me to connect to Customer care Telegram](https://t.me/conesupport)
@@ -12,9 +12,8 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ## Step 1: Download & Install on Mac
 
-Download the Clash app on your Mac computer using the link(s) below;
+\
 
-[**Download Link 1**](https://app.alekwu.top/soft/mac/clashX.dmg)
 
 {% hint style="success" %}
 Alternative download mirrors:
@@ -24,29 +23,9 @@ Download on [Github](https://github.com/clashdownload/ClashX/releases/download/1
 
 ***
 
-## Step 2: Installation
+##
 
-{% hint style="warning" %}
-To run the Clash app on your Mac, you'll need to allow third-party apps in your settings.&#x20;
-
-[How to open Mac app from an unidentified developer](https://www.macworld.com/article/672947/how-to-open-a-mac-app-from-an-unidentified-developer.html)
-{% endhint %}
-
-1. Double click the downloaded Clash&#x58;_.dmg_ file
-
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
-2. Follow the prompt to drag the ClashX app to your Applications Folder
-
-<figure><img src="../.gitbook/assets/1726171640188.png" alt="" width="491"><figcaption></figcaption></figure>
-
-3. After copying, close the window, Open the applications folder and run the ClashX, an app security prompt should show up
-
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-
-4. Head to **System Settings > Privacy & Security,** Click on the _Open Anyways_ option under the secuity notification
-
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+1.
 
 ## Step 3: Import the servers
 
