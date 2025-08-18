@@ -11,7 +11,7 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 Download the FLClash app on your Mac computer using the link(s) below;
 
 Apple Silicon (M1-M4)\
-[**Download Link 1**](https://app.alekwu.top/soft/mac/clashX.dmg)
+[**Download Link 1**](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-macos-arm64.dmg)
 
 Intel X64\
 [Download Link 1](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-macos-amd64.dmg)

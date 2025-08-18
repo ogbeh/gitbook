@@ -1,4 +1,4 @@
-# FLClash for Mac
+# FLClash for Mac EDIT
 
 {% hint style="info" %}
 If you have trouble setting up, Please contact customer care on Telegram [Click me to connect to Customer care Telegram](https://t.me/conesupport)
