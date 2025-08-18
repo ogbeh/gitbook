@@ -11,7 +11,6 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 #### 1. Download FlClash
 
 Click one of these links:\
-[📥 **Download Link 1**](https://app.alekwu.top/soft/windows/FlClash_windows.exe)\
 [📥 **Alternate Download**](https://www.mediafire.com/file/26587fu6hvhojzs/FlClash-0.8.80-windows.exe/file)
 
 ***
