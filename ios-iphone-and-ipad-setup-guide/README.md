@@ -2,6 +2,6 @@
 
 Please follow the setup guides provided.
 
-{% content-ref url="recommended-shadowrocket-for-ios/shadowrocket-download-and-install.md" %}
-[shadowrocket-download-and-install.md](recommended-shadowrocket-for-ios/shadowrocket-download-and-install.md)
+{% content-ref url="recommended-shadowrocket-for-ios/" %}
+[recommended-shadowrocket-for-ios](recommended-shadowrocket-for-ios/)
 {% endcontent-ref %}

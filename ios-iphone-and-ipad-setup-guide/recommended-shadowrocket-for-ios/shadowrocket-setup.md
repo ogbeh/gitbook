@@ -1,39 +1,42 @@
 # Shadowrocket Setup
 
-💬 **Need help anytime?**\
-[**Click here to chat with Customer Support**](https://t.me/conesupport)
-
-***
-
 ### 📢 READ THIS FIRST
 
 ✅ This guide starts **AFTER** you have already installed Shadowrocket.\
 ❌ If you don’t have the app yet:\
-👉 [**Go here to download & install it first**](shadowrocket-download-and-install.md)
+👉 [**Go here to download & install it first**](shadowrocket-install.md)
+
+
 
 ***
 
-### 🛠 Quick Recap Before We Start
+{% stepper %}
+{% step %}
+### Step 1: Login to your Cone account
 
-* There are **two ways** to set it up:
-  1. **One-Click Setup** – Fast & easy
-  2. **Manual Setup** – If One-Click fails or you want more control
-* Setup **does not affect** your phone’s normal internet. You can turn it on/off anytime.
-* If you get stuck — [**Click here to chat with Customer Support**](https://t.me/conesupport).
+**On your iPhone/iPad, open&#x20;**<mark style="color:purple;">**Safari**</mark>**&#x20;or&#x20;**<mark style="color:yellow;">**Google Chrome**</mark>
 
-***
+<figure><img src="../../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure>
 
-## 🚀 Step 1: Import the Servers
+**Navigate to this website:** [**https://dash.coneapp.top**](https://dash.coneapp.top/)
 
-### 🔹 Method 1: One-Click Setup (Recommended)
+<figure><img src="../../.gitbook/assets/5ad713a9cdaef9d38ff2fc4c7ba0e620.png" alt="" width="188"><figcaption></figcaption></figure>
 
-1. [**Login to your account dashboard**](https://dash.coneapp.top/) **(Sign in with your registered email and password)**
-2. Scroll to **Quick Import** → tap **Shadowrocket Subscribe**
-3. When it opens Shadowrocket, Enable “Background Update”
-4. Wait for it to finish importing
-5. [**Go to Step 2 to connect**](shadowrocket-setup.md#step-2-connect)
+**Input your 📧Email & 🔒Password, then&#x20;**<mark style="color:blue;">**Login**</mark>
 
-![Quick Import Screenshot](https://2909345706-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7nyUoeiab8RZiyZ6JoFK%2Fuploads%2FVigERWo7ilgBfdDklZrn%2Fimage.png?alt=media\&token=567e7acf-859a-4bc9-a7ca-f3f4247744c4)
+<figure><img src="../../.gitbook/assets/283e04417d973118fd7f01b6c3d5b317.png" alt="" width="188"><figcaption></figcaption></figure>
+
+**Scroll down to Quick Import, tap&#x20;**<mark style="color:blue;">**Shadowrocket Subscribe**</mark>**, then tap on&#x20;**<mark style="color:$success;">**Open**</mark>
+
+<figure><img src="../../.gitbook/assets/image (100).png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Scroll to **Quick Import** → tap **Shadowrocket Subscribe**
+
+
+{% endstep %}
+{% endstepper %}
 
 {% hint style="warning" %}
 💡 **If One-Click setup doesn’t work** → Use **Manual Setup** below.

@@ -13,7 +13,7 @@ Please download the OneClick app before proceeding, If you can't, please contact
 [Click here](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) to be redirected to the app page in the iOS App Store.
 
 {% hint style="warning" %}
-If you can't find the app, Please refer to [Shadowrocket download guide](recommended-shadowrocket-for-ios/shadowrocket-download-and-install.md) & use our Apple ID
+If you can't find the app, Please refer to [Shadowrocket download guide](recommended-shadowrocket-for-ios/shadowrocket-install.md) & use our Apple ID
 {% endhint %}
 
 {% hint style="success" %}
