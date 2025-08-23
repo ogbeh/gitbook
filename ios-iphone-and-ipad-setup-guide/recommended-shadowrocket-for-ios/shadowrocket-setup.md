@@ -14,7 +14,7 @@
 {% step %}
 ### Step 1: Login to your Cone account
 
-**On your iPhone/iPad📱, open&#x20;**<mark style="color:purple;">**Safari**</mark>**&#x20;or&#x20;**<mark style="color:yellow;">**Google Chrome**</mark>
+**On your iPhone/iPad📱, open&#x20;**<mark style="color:purple;">**Safari**</mark>**&#x20;browser or&#x20;**<mark style="color:yellow;">**Google Chrome**</mark>
 
 <figure><img src="../../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure>
 
