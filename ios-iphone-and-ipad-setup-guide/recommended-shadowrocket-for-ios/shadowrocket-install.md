@@ -1,72 +1,51 @@
-# Shadowrocket Download and Install
+# 🧠 Shadowrocket Install
 
-{% hint style="info" %}
+{% hint style="success" %}
 💬 **Need help?** Talk to us on Telegram:\
 👉 [**Click here to chat with Customer Support**](https://t.me/conesupport)
 {% endhint %}
 
 {% hint style="danger" %}
-Shadowrocket is not available on Chinese-mainland apple accounts
+**Shadowrocket costs $2.99 and is not available on Chinese-mainland Apple accounts**
 {% endhint %}
 
-### 🧠 READ THIS FIRST – MOST PEOPLE GET STUCK HERE
-
-**⚠ VERY IMPORTANT: This is the part many customers miss!**\
-You are not logging into iCloud — you are **logging into the App Store only**.
-
-#### ✅ To download Shadowrocket using our free method:
-
-> ❗**You MUST:**
+> #### **You can choose to purchase the app yourself**
 >
-> * **Sign OUT** of your own Apple ID in the app store only
-> * **Sign IN** using the Apple ID we give you
-> * Only then can you download the app
+> 👉 [**Buy Shadowrocket on App Store ($2.99)**](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
-**⚠️ If you skip this step, it WILL NOT work!**\
-If you encounter any issues during the process, just message us on Telegram.
+**OR**
 
-***
-
-#### 🔄 OR – You Can Just Buy It Instead
-
-If you don’t want to log in with our account,\
-👉 [**Buy Shadowrocket on App Store ($2.99)**](https://apps.apple.com/us/app/shadowrocket/id932747118)
-
-✅ Use a **non-China mainland Apple ID** like US, Hong Kong, etc.
+{% hint style="success" %}
+**Proceed with the guide below to download with our Apple account**
+{% endhint %}
 
 ***
 
-## 📲 Step-by-Step Guide (Free Method Using Our Apple ID)
+## 🔐 Step 1: Get Our Apple ID Login
 
-### 🔐 Step 1: Get Our Apple ID Login
+### 👉 [**Click here to get our Apple account** ](https://app.alekwu.top/soft/shrkios.html)
 
-👉 [**Click here to get our Apple ID**](https://app.alekwu.top/soft/shrkios.html)
+***
 
-### 👣 Step 2:  Sign into the App Store
-
-1. Tap the icon at the top-right corner of the screen.
-2. Scroll to the bottom and tap **Sign Out**
-3. Scroll to the top and sign into our Apple ID
+## 👣 Step 2:  Sign into the App Store
 
 <div align="left"><figure><img src="../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (95).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
-**DO NOT** Add your phone number during sign in
+**DO NOT Add your phone number during sign in**
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
+***
 
+## 🔍 Step 3: Search for “Shadowrocket” & Download It
 
-### 🔍 Step 3: Search for “Shadowrocket” & Download It
-
-Once logged in, search “Shadowrocket” and tap **GET** to download.
+Search “Shadowrocket” on the app store and download.
 
 <figure><img src="../../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### 🎉 Done Installing? Set It Up&#x20;
-
-#### 👉 **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](https://help.coneapp.top/ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup)
+## 👉 **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](https://help.coneapp.top/ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup)
 
 {% content-ref url="shadowrocket-setup.md" %}
 [shadowrocket-setup.md](shadowrocket-setup.md)

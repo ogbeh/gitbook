@@ -1,4 +1,4 @@
-# Shadowrocket Setup
+# ⚙️ Shadowrocket Setup
 
 ### 📢 READ THIS FIRST
 
@@ -30,17 +30,17 @@
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt="" width="375"><figcaption></figcaption></figure>
 
-After the <mark style="color:$success;">Success</mark> prompt, tap on the button to connect
+**After the&#x20;**<mark style="color:$success;">**Success**</mark>**&#x20;prompt, tap on the button to connect**
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Install VPN Profile 🆗
-* Allow "Shadowrocket" to Add VPN Configurations
-* Input your password when it asks
+* **Install VPN Profile 🆗**
+* **Allow "Shadowrocket" to Add VPN Configurations**
+* **Input your password when it asks**
 
 <figure><img src="../../.gitbook/assets/image (102).png" alt="" width="375"><figcaption></figcaption></figure>
 
-✅ You’re now connected — enjoy unrestricted browsing.
+**✅ You’re now connected — enjoy unrestricted browsing.**
 
 <figure><img src="../../.gitbook/assets/image (104).png" alt="" width="244"><figcaption></figcaption></figure>
 {% endstep %}
