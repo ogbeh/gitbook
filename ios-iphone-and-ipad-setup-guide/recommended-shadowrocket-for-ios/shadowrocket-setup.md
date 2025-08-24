@@ -28,8 +28,6 @@
 
 **Scroll down⬇️ to Quick Import, tap&#x20;**<mark style="color:blue;">**Shadowrocket Subscribe**</mark>**, then tap on&#x20;**<mark style="color:$success;">**Open**</mark>
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt="" width="375"><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/08241-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
 
 **After the&#x20;**<mark style="color:$success;">**Success**</mark>**&#x20;prompt, tap on the button to connect**
