@@ -4,18 +4,21 @@ description: Shadowrocket Install guide for iOS devices
 
 # 🧠 Shadowrocket Install
 
-💬 **Need help?** Talk to us on Telegram:\
-👉 [**Click here to chat with Customer Support**](https://t.me/conesupport)
-
 {% hint style="danger" %}
 **Shadowrocket costs $2.99 and is not available on Chinese-mainland Apple accounts**
 {% endhint %}
 
-> #### **You can choose to purchase the app yourself using your Apple ID (US, HK etc)**
->
-> 👉 [**Buy Shadowrocket on App Store ($2.99)**](https://apps.apple.com/us/app/shadowrocket/id932747118)
+{% hint style="info" %}
+#### **You can purchase the Shadowrocket app using your Apple ID (US, HK etc)**
+
+👉 [**Buy Shadowrocket on App Store ($2.99)**](https://apps.apple.com/us/app/shadowrocket/id932747118)
+{% endhint %}
+
+{% hint style="success" %}
+<h3 align="center">If you have Chinese-mainland Apple account.</h3>
 
 ### Please follow the steps below to download the app using our Apple account
+{% endhint %}
 
 ***
 
@@ -30,8 +33,6 @@ description: Shadowrocket Install guide for iOS devices
 <div align="center"><figure><img src="../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
-
-
 
 {% hint style="warning" %}
 **DO NOT Add your phone number during sign in**
