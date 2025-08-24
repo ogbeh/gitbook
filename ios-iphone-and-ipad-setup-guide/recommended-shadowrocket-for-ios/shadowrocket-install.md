@@ -29,7 +29,11 @@
 
 ## 👣 Step 2:  Sign into the App Store
 
-<div align="left"><figure><img src="../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (95).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure></div>
+
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+
+
 
 {% hint style="warning" %}
 **DO NOT Add your phone number during sign in**
