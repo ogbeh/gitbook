@@ -30,6 +30,8 @@
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt="" width="375"><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/08241-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
+
 **After the&#x20;**<mark style="color:$success;">**Success**</mark>**&#x20;prompt, tap on the button to connect**
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt="" width="375"><figcaption></figcaption></figure>
