@@ -20,11 +20,11 @@
 
 **Navigate to this website🌐:** [**https://dash.coneapp.top**](https://dash.coneapp.top/)
 
-<figure><img src="../../.gitbook/assets/5ad713a9cdaef9d38ff2fc4c7ba0e620.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/08243-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
 
-**Register a new account or login using your existing📧Email &🔒Password**
+**Sign-up/Log in using your 📧Email &🔒Password**
 
-<figure><img src="../../.gitbook/assets/283e04417d973118fd7f01b6c3d5b317.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/08242-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
 
 **Scroll down⬇️ to Quick Import, tap&#x20;**<mark style="color:blue;">**Shadowrocket Subscribe**</mark>**, then tap on&#x20;**<mark style="color:$success;">**Open**</mark>
 
