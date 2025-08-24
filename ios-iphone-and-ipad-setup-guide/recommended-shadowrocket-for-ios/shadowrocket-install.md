@@ -23,10 +23,6 @@ description: Shadowrocket Install guide for iOS devices
 
 ### 👉 [**Click here to get our Apple account** ](https://app.alekwu.top/soft/shrkios.html)
 
-h
-
-{% embed url="https://app.alekwu.top/soft/shrkios.html" %}
-
 ***
 
 ## 👣 Step 2:  Sign into the App Store
