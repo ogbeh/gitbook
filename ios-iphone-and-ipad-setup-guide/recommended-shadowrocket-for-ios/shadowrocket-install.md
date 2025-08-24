@@ -15,7 +15,7 @@
 
 **OR**
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Proceed with the guide below to download with our Apple account**
 {% endhint %}
 

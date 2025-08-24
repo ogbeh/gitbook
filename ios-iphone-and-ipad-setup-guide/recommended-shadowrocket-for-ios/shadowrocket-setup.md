@@ -22,7 +22,7 @@
 
 <figure><img src="../../.gitbook/assets/5ad713a9cdaef9d38ff2fc4c7ba0e620.png" alt="" width="188"><figcaption></figcaption></figure>
 
-**Input your 📧Email &🔒Password, then&#x20;**<mark style="color:blue;">**Login**</mark>
+**Register a new account or login using your existing📧Email &🔒Password**
 
 <figure><img src="../../.gitbook/assets/283e04417d973118fd7f01b6c3d5b317.png" alt="" width="188"><figcaption></figcaption></figure>
 
