@@ -29,6 +29,7 @@
   * [FlClash for Windows](windows-setup-guide/flclash-for-windows.md)
   * [Netch for Windows](windows-setup-guide/netch-for-windows.md)
   * [Clash for Windows](windows-setup-guide/clash-for-windows.md)
+  * [Mihomo Party for Windows](windows-setup-guide/mihomo-party-for-windows.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Installation Troubleshooting](troubleshooting/installation-troubleshooting.md)
   * [Change your DNS server](troubleshooting/change-your-dns-server/README.md)
