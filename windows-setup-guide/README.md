@@ -19,3 +19,7 @@ Choose the app that best fits your requirements, and follow the setup instructio
 {% content-ref url="clash-for-windows.md" %}
 [clash-for-windows.md](clash-for-windows.md)
 {% endcontent-ref %}
+
+{% content-ref url="mihomo-party-for-windows.md" %}
+[mihomo-party-for-windows.md](mihomo-party-for-windows.md)
+{% endcontent-ref %}
