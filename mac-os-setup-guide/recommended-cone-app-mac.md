@@ -4,7 +4,7 @@
 If you have trouble setting up, Please contact customer care on Telegram [Click me to connect to Customer care Telegram](https://t.me/conesupport)
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 **The Cone client app is our custom-built client app for Windows / Mac / Android**
 {% endhint %}
 
@@ -14,32 +14,34 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 Download the Cone app on your Mac computer using the link(s) below.
 
-{% hint style="info" %}
-Please download the app for your Mac Version.  To check your Mac version, refer to [https://support.apple.com/en-ng/116943](https://support.apple.com/en-ng/116943)&#x20;
+{% hint style="warning" %}
+Download the app that matches your Mac model. To find your model, visit:&#x20;
+
+[**How to find Mac version**](https://app.gitbook.com/u/59636f82c0bb360011aeb7b4)
 {% endhint %}
 
 **M1/M2 Mac**
 
-[**Download Link 1**](https://app.alekwu.top/soft/mac/1.3.2/cone_M1_M2.dmg)
+[**Download Link 1**](https://appdl.coneapp.top/soft/mac/flclash/arm/new/FlClash-macos-arm64.dmg)
 
-[**Alternate Download Link**](https://www.mediafire.com/file/6lc1s9af0zdmlnp/Cone_M1_M2.dmg/file)
+[**Alternate Download Link**](https://www.mediafire.com/file/9j1a19q0wf2aoud/FlClash-0.8.89-macos-arm64.dmg/file)
 
 ***
 
 **Intel Mac**
 
-[**Download Link 1**](https://app.alekwu.top/soft/mac/1.3.2/cone_x64.dmg)
+[**Download Link 1**](https://appdl.coneapp.top/soft/mac/flclash/intel/new/FlClash-macos-x64.dmg)
 
-[**Alternate Download Link**](https://www.mediafire.com/file/s462x005maum4hb/Cone_x64.dmg/file)
+[**Alternate Download Link**](https://www.mediafire.com/file/ue2n0dk1gta4r48/FlClash-0.8.89-macos-amd64.dmg/file)
 
 ***
 
 ## Step 2: Installation
 
 {% hint style="warning" %}
-To run the Cone app on your Mac, you'll need to allow third-party apps in your settings.&#x20;
+To use the Cone app on your Mac, enable third-party apps in your settings. Open the link to learn how:
 
-[How to open Mac app from an unidentified developer](https://www.macworld.com/article/672947/how-to-open-a-mac-app-from-an-unidentified-developer.html)
+[**How to open Mac app from an unidentified developer**](https://www.macworld.com/article/672947/how-to-open-a-mac-app-from-an-unidentified-developer.html)
 {% endhint %}
 
 1. Double click the downloaded _ConeSetup.dmg_ file
