@@ -10,9 +10,9 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 1. Download and install the FLClash app on your Android device using the link(s) below.
 
-[**Download Link 1**](https://www.mediafire.com/file/bmrtdu4wv7rwmrq/flclash_0.8.87.apk/file)
+[**Download Link 1**](https://appdl.coneapp.top/soft/android/flclash/new/flclash-arm64.apk)
 
-[**Alternate Download Link**](https://www.mediafire.com/file/bmrtdu4wv7rwmrq/flclash_0.8.87.apk/file)
+[**Alternate Download Link**](https://www.mediafire.com/file/dswbntvgwc0dswv/FlClash-0.8.89-android-arm64-v8a.apk/file)
 
 {% hint style="warning" %}
 **NOTE: Please use the alternate download link if Download Link 1 does not work**

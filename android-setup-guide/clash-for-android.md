@@ -10,9 +10,9 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 1. Download and install the Clash app on your Android device using the link(s) below.
 
-[**Download Link 1**](https://app.alekwu.top/soft/android/clash_for_android.apk)
+[**Download Link 1**](https://appdl.coneapp.top/soft/android/cfa/new/cmfa-universal.apk)
 
-[**Alternate Download Link**](https://www.mediafire.com/file/nloojbfqlvz6065/clash_for_android.apk/file)
+[**Alternate Download Link**](https://www.mediafire.com/file/hvjfyyal9mri25b/cmfa-2.11.17-meta-universal-release.apk/file)
 
 {% hint style="warning" %}
 NOTE: Please use the alternate download link if Download Link 1 does not work

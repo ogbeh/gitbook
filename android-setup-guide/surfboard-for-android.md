@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Surfboard for Android
 
 {% hint style="info" %}

@@ -14,9 +14,9 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 Download the Cone app on your Android phone using the link(s) below.
 
-[**Download Link 1**](https://app.alekwu.top/soft/android/1.3.2/cone_android.apk)
+[**Download Link 1**](https://appdl.coneapp.top/soft/android/cone/new/cone_android.apk)
 
-[**Alternate Download Link**](https://www.mediafire.com/file/ak3ivj366m2lz3m/cone_android.apk/file)
+[**lternate Download Link**](https://www.mediafire.com/file/ak3ivj366m2lz3m/cone_android.apk/file)
 
 Once the download is finished, install the _ConeSetup.apk_ on your Android device.
 
