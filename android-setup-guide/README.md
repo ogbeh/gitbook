@@ -1,8 +1,10 @@
+---
+description: >-
+  Getting started is easy—just pick the Android app that suits you best and
+  follow the setup steps. We suggest trying the Cone App first!
+---
+
 # Android Setup Guide
-
-Welcome to the Android setup guide for our service. We offer different apps to suit your needs.&#x20;
-
-Choose the app that best fits your requirements, and follow the setup instructions provided.
 
 {% content-ref url="recommended-cone-app-android.md" %}
 [recommended-cone-app-android.md](recommended-cone-app-android.md)
