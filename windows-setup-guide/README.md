@@ -1,8 +1,10 @@
+---
+description: >-
+  Setting up on Windows is easy—just pick the app that works best for you and
+  follow the steps. We recommend starting with the Cone App!
+---
+
 # Windows Setup Guide
-
-Welcome to the Windows setup guide for our service. We offer three different apps to suit your needs:
-
-Choose the app that best fits your requirements, and follow the setup instructions provided
 
 {% content-ref url="recommended-cone-app-windows.md" %}
 [recommended-cone-app-windows.md](recommended-cone-app-windows.md)

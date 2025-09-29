@@ -1,6 +1,10 @@
-# iOS (iPhone and iPad) Setup Guide
+---
+description: >-
+  Setting up on iPhone or iPad? Just grab the app and follow the guide. We
+  recommend using Shadowrocket!
+---
 
-Please follow the setup guides provided.
+# iOS (iPhone and iPad) Setup Guide
 
 {% content-ref url="recommended-shadowrocket-for-ios/" %}
 [recommended-shadowrocket-for-ios](recommended-shadowrocket-for-ios/)
