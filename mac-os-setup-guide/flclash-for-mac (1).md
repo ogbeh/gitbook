@@ -8,13 +8,21 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ### **🚀 Step 1: Get FlClash on Your PC**
 
-Download the FLClash app on your Mac computer using the link(s) below;
+Download the FlClash app on your Mac computer using the link(s) below;
 
-Apple Silicon (M1-M4)\
-[**Download Link 1**](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-macos-arm64.dmg)
+**M1/M2 Mac**
 
-Intel X64\
-[Download Link 1](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-macos-amd64.dmg)
+[**Download Link 1**](https://appdl.coneapp.top/soft/mac/flclash/arm/new/FlClash-macos-arm64.dmg)
+
+[**Alternate Download Link**](https://www.mediafire.com/file/9j1a19q0wf2aoud/FlClash-0.8.89-macos-arm64.dmg/file)
+
+***
+
+**Intel Mac**
+
+[**Download Link 1**](https://appdl.coneapp.top/soft/mac/flclash/intel/new/FlClash-macos-x64.dmg)
+
+[**Alternate Download Link**](https://www.mediafire.com/file/ue2n0dk1gta4r48/FlClash-0.8.89-macos-amd64.dmg/file)
 
 ***
 

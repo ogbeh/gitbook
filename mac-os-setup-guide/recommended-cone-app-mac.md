@@ -22,17 +22,17 @@ Download the app that matches your Mac model. To find your model, visit:&#x20;
 
 **M1/M2 Mac**
 
-[**Download Link 1**](https://appdl.coneapp.top/soft/mac/flclash/arm/new/FlClash-macos-arm64.dmg)
+[**Download Link 1**](https://app.alekwu.top/soft/mac/1.3.2/cone_M1_M2.dmg)
 
-[**Alternate Download Link**](https://www.mediafire.com/file/9j1a19q0wf2aoud/FlClash-0.8.89-macos-arm64.dmg/file)
+[**Alternate Download Link**](https://www.mediafire.com/file/6lc1s9af0zdmlnp/cone_M1_M2.dmg/file)
 
 ***
 
 **Intel Mac**
 
-[**Download Link 1**](https://appdl.coneapp.top/soft/mac/flclash/intel/new/FlClash-macos-x64.dmg)
+[**Download Link 1**](https://app.alekwu.top/soft/mac/1.3.2/cone_x64.dmg)
 
-[**Alternate Download Link**](https://www.mediafire.com/file/ue2n0dk1gta4r48/FlClash-0.8.89-macos-amd64.dmg/file)
+[**Alternate Download Link**](https://www.mediafire.com/file/s462x005maum4hb/cone_x64.dmg/file)
 
 ***
 
