@@ -18,8 +18,8 @@ description: >-
 [netch-for-windows.md](netch-for-windows.md)
 {% endcontent-ref %}
 
-{% content-ref url="clash-for-windows.md" %}
-[clash-for-windows.md](clash-for-windows.md)
+{% content-ref url="clash-verge-for-windows.md" %}
+[clash-verge-for-windows.md](clash-verge-for-windows.md)
 {% endcontent-ref %}
 
 {% content-ref url="mihomo-party-for-windows.md" %}

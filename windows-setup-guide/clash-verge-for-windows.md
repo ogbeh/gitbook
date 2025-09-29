@@ -1,4 +1,4 @@
-# Clash for Windows
+# Clash Verge for Windows
 
 {% hint style="info" %}
 If you have trouble setting up, Please contact customer care on Telegram [Click me to connect to Customer care Telegram](https://t.me/conesupport)
@@ -10,56 +10,22 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 Download and install the Clash app on your system using any of the links below &#x20;
 
-[**Download Link 1**](https://app.alekwu.top/soft/windows/clash_windows.exe)
+[**Download Link 1**](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.2/Clash.Verge_2.4.2_x64-setup.exe)
 
-[**Alternate Download Link**](https://www.mediafire.com/file/l0fddqkdpjbfvrg/clash_windows.exe/file)
 
-{% hint style="warning" %}
-If you are using 32-bit Windows, then use the link below
-{% endhint %}
-
-[**Click here to download Clash for WIndows 32-bit**](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.ia32.exe)
 
 ***
 
 ### Installation
 
 1. Once the download completes, run the installer file to install and follow the installation steps
-2. Run the Clash app
+2. Run the Clash Verge installer
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Step 3: Server setup
-
-{% hint style="success" %}
-Please choose your preferred setup method based on your needs:
-
-***
-
-* **One-Click Setup**: Quick and easy.
-* **Manual Setup**: For more customization and control.
-{% endhint %}
-
-### Option 1 (Recommended): One-Click Setup
-
-1. Head to your [Dashboard](https://dash.coneapp.top)&#x20;
-2. Scroll to the Quick Import section and tap on **Clash Subscribe**
-
-<figure><img src="../.gitbook/assets/1736864952658.png" alt="" width="563"><figcaption></figcaption></figure>
-
-4. A new prompt should appear; select the _Open Clash for Windows_
-
-<figure><img src="../.gitbook/assets/image (54).png" alt="" width="430"><figcaption></figcaption></figure>
-
-{% hint style="warning" %}
-If One-Click setup does not work, please follow the manual setup below
-{% endhint %}
-
-***
-
-### &#x20;Option 2: Manual Setup
 
 1. Head to your [dashboard](https://dash.coneapp.top)
 2. Scroll to the Quick Import section and tap on Copy
@@ -68,25 +34,23 @@ If One-Click setup does not work, please follow the manual setup below
 
 ### Paste the API&#x20;
 
-1. Open Clash by double-clicking on the app icon in the tray on the bottom right corner of your screen (blue cat icon)
-2. Go to "Profile" (left-hand menu)
-3. Paste the API in the "Download from URL" box and click "Download."
+<figure><img src="../.gitbook/assets/56a270f46c8c1af547e0425b73b928ee.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (58).png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Your server list has now been downloaded to the app.
 
-***
+<figure><img src="../.gitbook/assets/56966a6e307c4e095c987ca9a4df56e0.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/e5b2fb5df50d2a3852b1a35063599fcf.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Step 4: Connect
 
-### Select a server and mode
+<figure><img src="../.gitbook/assets/9e4559948d555453a534819f3fc036c0.png" alt=""><figcaption></figcaption></figure>
 
-1. Go to "Proxies" (left-hand menu)
-2. Select either Global mode or Proxy mode from the top (see box below)
-3. Select a server from the list
+### Select a server
 
-<figure><img src="../.gitbook/assets/image (56).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/f9ff425baae031c17fa4a18c2f2c7d74.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Modes:
@@ -95,15 +59,6 @@ Global: All websites go through Cone
 
 Rule: Websites go to different servers based on pre-configured rule sets.
 {% endhint %}
-
-### Connect
-
-1. Go to the "General" tab
-2. Toggle the "System Proxy" switch
-
-<figure><img src="../.gitbook/assets/image (55).png" alt="" width="563"><figcaption></figcaption></figure>
-
-You are now connected.
 
 {% hint style="info" %}
 To disconnect: Toggle the "System Proxy" switch again

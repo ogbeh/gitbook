@@ -1,7 +1,7 @@
 ---
 description: >-
-  Comprehensive guide for setting up, troubleshooting, and managing your
-  subscription.
+  Everything you need to get started, fix issues, and manage your
+  subscription—right here in one place.
 ---
 
 # Cone Documentation
