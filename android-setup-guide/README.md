@@ -14,10 +14,6 @@ description: >-
 [flclash-for-android.md](flclash-for-android.md)
 {% endcontent-ref %}
 
-{% content-ref url="surfboard-for-android.md" %}
-[surfboard-for-android.md](surfboard-for-android.md)
-{% endcontent-ref %}
-
 {% content-ref url="clash-for-android.md" %}
 [clash-for-android.md](clash-for-android.md)
 {% endcontent-ref %}

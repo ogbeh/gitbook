@@ -52,40 +52,6 @@ To run the FlClash app on your Mac, you'll need to allow third-party apps in you
 
 ### **🌍 Step 2: Add the Servers**
 
-{% hint style="success" %}
-Please choose your preferred setup method based on your needs:
-
-Choose **One-Click Setup** if you want it fast.\
-Choose **Manual Setup** only if One-Click doesn’t work.
-{% endhint %}
-
-### Option 1 (Recommended): One-Click Setup
-
-1. [**Login to your account dashboard**](https://dash.coneapp.top/) **(Sign in with your registered email and password)**
-2. Scroll to the Quick Import section and tap on **Clash Subscribe**
-
-<figure><img src="../.gitbook/assets/1736864952658.png" alt="" width="563"><figcaption></figcaption></figure>
-
-3. A new prompt should appear; select the _Open FlClash for Windows_
-
-<figure><img src="../.gitbook/assets/031e41d1-d962-4358-bcc1-a811ab924364.png" alt="" width="459"><figcaption></figcaption></figure>
-
-4. Click on **Confirm** in the FlClash application
-
-<figure><img src="../.gitbook/assets/f83d2e7d-8368-433f-a74c-e3842d588200.png" alt="" width="558"><figcaption></figcaption></figure>
-
-4. [**Go to Step 4 to connect**](<flclash-for-mac (1).md#step-4-connect>)
-
-
-
-{% hint style="warning" %}
-If One-Click setup does not work, please follow the manual setup below
-{% endhint %}
-
-***
-
-### &#x20;Option 2: Manual Setup
-
 1. [**Login to your account dashboard**](https://dash.coneapp.top/) **(Sign in with your registered email and password)**
 2. Scroll to the Quick Import section and tap on Copy
 
