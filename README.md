@@ -1,8 +1,7 @@
 ---
 description: >-
   Thanks for choosing Cone! This guide will help you get set up, stay connected,
-  and manage your account—whether you're on Windows, Android, iOS, macOS, Linux
-  or any of our other supported devices
+  and manage your account across our supported platforms
 ---
 
 # Welcome to Cone
