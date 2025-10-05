@@ -53,7 +53,9 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 #### **iOS, Linux, and Routers**
 
-See **Advanced Setup** for detailed instructions.
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Advanced Setup</td><td><a href="advanced-setup/">advanced-setup</a></td></tr></tbody></table>
+
+[See **Advanced Setup**](advanced-setup/) for detailed instructions.
 
 ***
 
@@ -72,7 +74,7 @@ See **Advanced Setup** for detailed instructions.
 
 1. Log in to the Cone app.
 2. Tap **Connect**.
-3. By default, Cone selects the **fastest server** for you.
+3. By default, Cone selects an **optimal server** for you.
 
 > 🌍 Want a specific location? Tap **Server List** and choose a country or city.
 
