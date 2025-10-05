@@ -14,21 +14,21 @@ In Control Panel, click on “Network and Internet”and then “Network and Sha
 
 
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 3: Choose the connection**
 
 In the Network and Sharing Center, choose the internet connection you want to change the DNS settings for. Your active connection is usually named “Wi-Fi” or “Ethernet” and is located on the right-hand side of the window.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 4: Change adapter settings**
 
 In the new window, you will see general information about your connection. Click on the “Properties” button.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 5: Choose Internet Protocol Version 4 (TCP/IPv4)**
 

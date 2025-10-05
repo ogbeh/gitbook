@@ -21,7 +21,7 @@ Download and install the Clash app on your system using any of the links below &
 1. Once the download completes, run the installer file to install and follow the installation steps
 2. Run the Clash Verge installer
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
