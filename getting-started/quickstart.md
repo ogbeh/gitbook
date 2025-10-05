@@ -8,7 +8,9 @@ coverY: 0
 
 # Quickstart
 
-### **1️⃣ Download & Install**
+{% stepper %}
+{% step %}
+### **Download & Install**
 
 Cone is available for **Windows, macOS, & Android**.&#x20;
 
@@ -18,7 +20,7 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 ***
 
-#### **Windows 🪟**
+#### **Windows** <i class="fa-windows">:windows:</i>
 
 1. [Go to the Cone download page.](https://coneapp.top/)
 2. Click **Download for Windows**.
@@ -29,7 +31,7 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 ***
 
-#### **macOS 🍎**
+#### **macOS** <i class="fa-laptop">:laptop:</i>
 
 1. [Go to the Cone download page.](https://coneapp.top/)
 2. Click **Download for macOS**.
@@ -40,7 +42,7 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 ***
 
-#### **Android 🤖**
+#### **Android** <i class="fa-android">:android:</i>
 
 1. [Go to the Cone download page.](https://coneapp.top/)
 2. Click **Download for Android**.
@@ -51,15 +53,15 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 ***
 
-#### **iPhone / iPad, Linux, and Routers setup**
+#### **iPhone / iPad, Linux, and Routers** <i class="fa-apple">:apple:</i> <i class="fa-linux">:linux:</i> <i class="fa-router">:router:</i>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Advanced Setup</td><td><a href="advanced-setup/">advanced-setup</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><i class="fa-router">:router:</i> Advanced Setup</td><td><a href="advanced-setup/">advanced-setup</a></td></tr></tbody></table>
 
 [**See Advanced Setup**](advanced-setup/) for detailed instructions.
+{% endstep %}
 
-***
-
-### **2️⃣ Create an Account 👤**
+{% step %}
+### **Create an Account** <i class="fa-user-group">:user-group:</i>
 
 1. Open the Cone app.
 2. Tap **Sign Up**.
@@ -67,27 +69,29 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 4. Verify your email using the confirmation link.
 
 > ✅ Already have an account? Tap **Login**.
+{% endstep %}
 
-***
-
-### **3️⃣ Connect to the VPN 🔗**
+{% step %}
+### **Connect** <i class="fa-wifi">:wifi:</i>
 
 1. Log in to the Cone app.
 2. Tap **Connect**.
 3. By default, Cone selects an **optimal server** for you.
 
 > 🌍 Want a specific location? Tap **Server List** and choose a country or city.
+{% endstep %}
 
-***
-
-### **4️⃣ Explore Features**
+{% step %}
+### **Explore Features**
 
 * **Server Selection:** Choose servers for speed or content access.
 * **Connection Status:** Check which server you are connected to.
 * **Switch Servers Anytime:** Tap a new server from the list.
+{% endstep %}
 
-***
-
-### **5️⃣ You’re Ready! ✅**
+{% step %}
+### **You’re Ready!** <i class="fa-octagon-check">:octagon-check:</i>
 
 Your internet is now **private and unrestricted**. Enjoy browsing, streaming, and working securely.
+{% endstep %}
+{% endstepper %}

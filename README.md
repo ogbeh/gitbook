@@ -2,6 +2,7 @@
 description: >-
   Thanks for choosing Cone! This guide will help you get set up, stay connected,
   and manage your account across our supported platforms
+icon: hand-wave
 ---
 
 # Welcome to Cone
