@@ -51,11 +51,11 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 ***
 
-#### **iOS, Linux, and Routers**
+#### **iPhone / iPad, Linux, and Routers setup**
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Advanced Setup</td><td><a href="advanced-setup/">advanced-setup</a></td></tr></tbody></table>
 
-[See **Advanced Setup**](advanced-setup/) for detailed instructions.
+[**See Advanced Setup**](advanced-setup/) for detailed instructions.
 
 ***
 
