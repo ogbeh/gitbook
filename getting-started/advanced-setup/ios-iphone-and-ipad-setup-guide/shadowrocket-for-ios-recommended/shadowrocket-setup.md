@@ -1,4 +1,8 @@
-# ⚙️ Shadowrocket Setup
+---
+icon: square-2
+---
+
+# Shadowrocket Setup
 
 ### 📢 READ THIS FIRST
 

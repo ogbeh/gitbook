@@ -1,8 +1,9 @@
 ---
 description: Shadowrocket Install guide for iOS devices
+icon: square-1
 ---
 
-# 🧠 Shadowrocket Install
+# Shadowrocket Install
 
 {% hint style="danger" %}
 **Shadowrocket costs $2.99 and is not available on Chinese-mainland Apple accounts**

@@ -1,4 +1,8 @@
-# 🚀 Shadowrocket for iOS (Recommended)
+---
+icon: rocket-launch
+---
+
+# Shadowrocket for iOS (Recommended)
 
 {% content-ref url="shadowrocket-install.md" %}
 [shadowrocket-install.md](shadowrocket-install.md)
