@@ -10,7 +10,7 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 Download and install the Mihomo Party app on your system using any of the links below &#x20;
 
-[**Download Link 1**](https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.8.5/mihomo-party-windows-1.8.5-x64-setup.exe)
+[**Download Link 1**](https://appdl.coneapp.top/soft/windows/mihomo-party/clash-party-64bit.exe)
 
 [**Alternate Download Link**](https://gitlab.com/bvpn1/client/-/raw/main/mihomo-party/mihomo-party-windows-1.8.5-x64-setup.exe)
 
@@ -18,7 +18,7 @@ Download and install the Mihomo Party app on your system using any of the links 
 If you are using 32-bit Windows, then use the link below
 {% endhint %}
 
-[**Click here to download Mihomo Party for WIndows 32-bit**](https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.8.5/mihomo-party-windows-1.8.5-ia32-setup.exe)
+[**Click here to download Mihomo Party for WIndows 32-bit**](https://appdl.coneapp.top/soft/windows/mihomo-party/clash-party-32bit.exe)
 
 ***
 

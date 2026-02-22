@@ -132,11 +132,11 @@ If the issue still persists, check your computer time. For v2ray servers, your c
 
 ### 5. Mode list doesn't show
 
-Instead, you are likely running an old version of Windows or lack some dependencies. If you can't see any modes, we recommend switching to [v2rayN ](broken-reference)instead, as troubleshooting which dependencies are lacking will likely be quite complicated.
+Instead, you are likely running an old version of Windows or lack some dependencies. If you can't see any modes, we recommend switching to [v2rayN ](/broken/pages/-LuS1yU-6IlBQB6jZ8vx)instead, as troubleshooting which dependencies are lacking will likely be quite complicated.
 
 ### 6. Does not work on Windows 7
 
-Netch needs various dependencies that are native on Windows 10, but which are lacking on Windows 7. We recommend switching to [SSR ](broken-reference)on Windows 7.
+Netch needs various dependencies that are native on Windows 10, but which are lacking on Windows 7. We recommend switching to [SSR ](/broken/pages/-MF19G1RFywY-FsTypnK)on Windows 7.
 
 If you still want to try using Netch on Windows 7, you can install the update package from Microsoft:
 

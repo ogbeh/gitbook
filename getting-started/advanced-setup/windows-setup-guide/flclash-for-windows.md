@@ -13,6 +13,9 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 Click one of these links below to download for your version of Windows:
 
 **64-bit:**\
+[**Download Link**](https://appdl.coneapp.top/soft/windows/flclash/FlClash-windows-amd64-setup.exe)
+
+**64-bit:**\
 [📥 **Alternate Download**](https://www.mediafire.com/file/26587fu6hvhojzs/FlClash-0.8.80-windows.exe/file)
 
 ***

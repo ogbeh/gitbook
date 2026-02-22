@@ -14,7 +14,7 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 Download the Cone app on your Windows computer using the link(s) below.
 
-[**Download Link 1**](https://app.alekwu.top/soft/windows/1.3.2/cone_setup.exe)
+[**Download Link 1**](https://appdl.coneapp.top/soft/windows/1.3.2/cone_setup.exe)
 
 [**Alternate Download Link**](https://www.mediafire.com/file/yxy918unq6ja0mj/cone_setup.exe/file)
 
@@ -33,7 +33,7 @@ Download the Cone app on your Windows computer using the link(s) below.
 
 ### 1. Download Issues
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Downloading the app using Microsoft Edge will sometimes show a prompt to trust the downloaded app.
 
 Follow the instructions below to solve this issue

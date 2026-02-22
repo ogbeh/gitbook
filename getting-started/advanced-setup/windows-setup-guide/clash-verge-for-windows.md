@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Clash Verge for Windows
 
 {% hint style="info" %}
@@ -122,7 +126,7 @@ You need to install the TAP Device (see above) and connect to a server that supp
 
 ### Spotify/OneDrive/Other app doesn't work
 
-Windows Store apps don't go through Clash by default. You need to force them to go through by using the UWP Loopback Helper (see [above](broken-reference)).
+Windows Store apps don't go through Clash by default. You need to force them to go through by using the UWP Loopback Helper (see [above](/broken/pages/-MNiEv3ET0lwwu_uRTrV#windows-store-apps)).
 
 If it still doesn't work, make sure you've installed the TAP interface (see above).
 
