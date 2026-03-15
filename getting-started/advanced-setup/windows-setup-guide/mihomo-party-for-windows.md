@@ -33,7 +33,7 @@ If you are using 32-bit Windows, then use the link below
 
 ## Step 3: Server setup
 
-1. Head to your [dashboard](https://dash.coneapp.top)
+1. Head to your [dashboard](https://me.coneapp.top/)
 2. Scroll to the Quick Import section and tap on Copy
 
 <figure><img src="../../../.gitbook/assets/1736863160559 (1).png" alt="" width="563"><figcaption></figcaption></figure>

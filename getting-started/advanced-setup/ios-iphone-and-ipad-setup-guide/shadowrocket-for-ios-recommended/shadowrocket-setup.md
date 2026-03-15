@@ -22,7 +22,7 @@ icon: square-2
 
 <figure><img src="../../../../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Navigate to this website🌐:** [**https://dash.coneapp.top**](https://dash.coneapp.top/)
+**Navigate to this website🌐:** [**https://me.coneapp.top**](https://me.coneapp.top/)
 
 <figure><img src="../../../../.gitbook/assets/08243-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
 

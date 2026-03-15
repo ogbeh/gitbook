@@ -35,7 +35,7 @@ Download the Netch app on your Windows computer using the link below.
 
 ### &#x20;Option 1: Manual Setup
 
-1. Head to your [dashboard](https://dash.coneapp.top)
+1. Head to your [dashboard](https://me.coneapp.top/)
 2. Scroll to the Quick Import section and tap on Copy
 
 <figure><img src="../../../.gitbook/assets/1736863160559 (1).png" alt="" width="563"><figcaption></figcaption></figure>

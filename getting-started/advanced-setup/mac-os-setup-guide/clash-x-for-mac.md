@@ -50,7 +50,7 @@ To run the Clash app on your Mac, you'll need to allow third-party apps in your 
 
 ## Step 3: Import the servers
 
-1. Head to your [Dashboard](https://dash.coneapp.top)
+1. Head to your [Dashboard](https://me.coneapp.top/)
 2. Scroll to the Quick Import section tap on Copy
 
 <figure><img src="../../../.gitbook/assets/1736863160559 (1).png" alt="" width="563"><figcaption></figcaption></figure>

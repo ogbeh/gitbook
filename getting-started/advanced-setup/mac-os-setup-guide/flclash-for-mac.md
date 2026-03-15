@@ -52,7 +52,7 @@ To run the FlClash app on your Mac, you'll need to allow third-party apps in you
 
 ### **🌍 Step 2: Add the Servers**
 
-1. [**Login to your account dashboard**](https://dash.coneapp.top/) **(Sign in with your registered email and password)**
+1. [**Login to your account dashboard**](https://me.coneapp.top/) **(Sign in with your registered email and password)**
 2. Scroll to the Quick Import section and tap on Copy
 
 <figure><img src="../../../.gitbook/assets/1736863160559 (1).png" alt="" width="563"><figcaption></figcaption></figure>

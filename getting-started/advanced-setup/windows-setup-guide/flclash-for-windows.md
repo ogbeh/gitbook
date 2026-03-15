@@ -38,7 +38,7 @@ Choose **Manual Setup** only if One-Click doesn’t work.
 
 ### Option 1 (Recommended): One-Click Setup
 
-1. [**Login to your account dashboard**](https://dash.coneapp.top/) **(Sign in with your registered email and password)**
+1. [**Login to your account dashboard**](https://me.coneapp.top/) **(Sign in with your registered email and password)**
 2. Scroll to the Quick Import section and tap on **Clash Subscribe**
 
 <figure><img src="../../../.gitbook/assets/1736864952658.png" alt="" width="563"><figcaption></figcaption></figure>
