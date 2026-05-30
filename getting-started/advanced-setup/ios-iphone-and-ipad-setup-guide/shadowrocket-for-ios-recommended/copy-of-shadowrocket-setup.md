@@ -1,80 +1,60 @@
 ---
-hidden: true
+icon: square-2
 ---
 
 # Copy of Shadowrocket Setup
 
-{% hint style="danger" %}
-Please download the Shadowrocket app before proceeding, If you can't, please contact customer care on Telegram [Click here to connect to Customer care Telegram](https://t.me/conesupport)
-{% endhint %}
+### 📢 READ THIS FIRST
 
-{% hint style="warning" %}
-Please click the link below for instructions on how to download and install the app
-{% endhint %}
+✅ This guide starts **AFTER** you have already installed Shadowrocket.\
+❌ If you don’t have the app yet:\
+👉 [**Go here to download & install it first**](shadowrocket-install.md)
 
-{% content-ref url="shadowrocket-install.md" %}
-[shadowrocket-install.md](shadowrocket-install.md)
-{% endcontent-ref %}
 
-{% hint style="success" %}
-After successfully installing the app, proceed below to setup
-{% endhint %}
-
-## Step 1: Import the servers
-
-{% hint style="success" %}
-Please choose your preferred setup method based on your needs:
 
 ***
 
-* **One-Click Setup**: Quick and easy.
-* **Manual Setup**: For more customization and control.
-{% endhint %}
+{% stepper %}
+{% step %}
+### Step 1: Copy Your Cone Subscription Link
 
-### One-Click Setup
+1. **On your iPhone/iPad📱, open&#x20;**<mark style="color:purple;">**Safari**</mark>**&#x20;browser or&#x20;**<mark style="color:yellow;">**Google Chrome**</mark>&#x20;
 
-1. [Click me to login to your account dashboard](https://dash.coneapp.top)&#x20;
-2. Scroll to the **Quick Import** section and tap on **Shadowrocket Subscribe**
-3. Enable Background Update
-4. Wait for the servers to update and then [connect to the service](copy-of-shadowrocket-setup.md#step-2-connect)
+<figure><img src="../../../../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+**Navigate t**
+
+<figure><img src="../../../../.gitbook/assets/08243-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
+
+**Sign-up/Log in using your 📧Email &🔒Password**
+
+<figure><img src="../../../../.gitbook/assets/08242-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
+
+**Scroll down⬇️ to Quick Import, tap&#x20;**<mark style="color:blue;">**Shadowrocket Subscribe**</mark>**, then tap on&#x20;**<mark style="color:$success;">**Open**</mark>
+
+<figure><img src="../../../../.gitbook/assets/08241-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
+
+**After the&#x20;**<mark style="color:$success;">**Success**</mark>**&#x20;prompt, tap on the button to connect**
+
+<figure><img src="../../../../.gitbook/assets/image (101).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* **Install VPN Profile 🆗**
+* **Allow "Shadowrocket" to Add VPN Configurations**
+* **Input your password when it asks**
+
+<figure><img src="../../../../.gitbook/assets/image (102).png" alt="" width="375"><figcaption></figcaption></figure>
+
+**✅ You’re now connected — enjoy unrestricted browsing.**
+
+<figure><img src="../../../../.gitbook/assets/image (104).png" alt="" width="244"><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 {% hint style="warning" %}
-If the above doesnt work, please follow the Manual setup below
-{% endhint %}
-
-### Manual Setup
-
-1. Head to your [Dashboard](https://cone.metatai.xyz)&#x20;
-2. Scroll to the Quick Import section and tap on Copy
-
-<figure><img src="../../../../.gitbook/assets/Weixin Image_20250113135432.png" alt="" width="375"><figcaption></figcaption></figure>
-
-### Paste the api link into the app
-
-1. Open the Shadowrocket app.
-2. Click on the "+" icon on the top right corner.
-3. Change the "Type" to **subscribe**.
-4. Paste the link into the URL box and click **Done**.
-
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
-
-{% hint style="danger" %}
-If the API doesn't work, please check the following:
-
-1. Ensure it is the latest Shadowrocket version.
-2. No other VPN/Proxy is connected
-3. You allowed the app network access on your phone
+💡 **If One-Click setup doesn’t work** → Use **Manual Setup** below.
 {% endhint %}
 
 ***
 
-## **Step 2: Connect**
 
-1. Select a server from the server list and toggle the connection switch on the top-right.
-2. If it is the first time setting up the app, it will ask you to allow the creation of a VPN profile. Click Allow and enter your pin/touch ID/face ID.
 
-<figure><img src="../../../../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
-
-3. Your device will be connected.

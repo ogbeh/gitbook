@@ -4,55 +4,171 @@ icon: square-2
 
 # Shadowrocket Setup
 
-### 📢 READ THIS FIRST
-
-✅ This guide starts **AFTER** you have already installed Shadowrocket.\
-❌ If you don’t have the app yet:\
-👉 [**Go here to download & install it first**](shadowrocket-install.md)
-
-
-
 ***
 
 {% stepper %}
 {% step %}
-### Step 1: Login to your Cone account
+## Step 1 — Install Shadowrocket
 
-**On your iPhone/iPad📱, open&#x20;**<mark style="color:purple;">**Safari**</mark>**&#x20;browser or&#x20;**<mark style="color:yellow;">**Google Chrome**</mark>
+Download the Shadowrocket app from the App Store.
 
-<figure><img src="../../../../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure>
+After installation, open the app.
 
-**Navigate to this website🌐:** [**https://m**](https://me.coneapp.top/)**y.coneaccount.com**
+{% hint style="success" %}
+✅ You should see the Shadowrocket home screen.
+{% endhint %}
+{% endstep %}
 
-<figure><img src="../../../../.gitbook/assets/08243-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
+{% step %}
+## Step 2 — Copy Your Cone Subscription Link
 
-**Sign-up/Log in using your 📧Email &🔒Password**
+[Click here Log in](https://my.coneaccount.com/) to your Cone dashboard and copy your subscription link.
 
-<figure><img src="../../../../.gitbook/assets/08242-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
+The link usually starts with:
 
-**Scroll down⬇️ to Quick Import, tap&#x20;**<mark style="color:blue;">**Shadowrocket Subscribe**</mark>**, then tap on&#x20;**<mark style="color:$success;">**Open**</mark>
+```
+https://
+```
 
-<figure><img src="../../../../.gitbook/assets/08241-ezgif.com-optimize.gif" alt="" width="375"><figcaption></figcaption></figure>
+{% hint style="warning" %}
+Make sure you copy the entire link.
+{% endhint %}
+{% endstep %}
 
-**After the&#x20;**<mark style="color:$success;">**Success**</mark>**&#x20;prompt, tap on the button to connect**
+{% step %}
+## Step 3 — Add Your Subscription to Shadowrocket
 
-<figure><img src="../../../../.gitbook/assets/image (101).png" alt="" width="375"><figcaption></figcaption></figure>
+1. Open Shadowrocket
+2. Tap the **+** button in the top-right corner
+3. Select **Subscribe**
+4. In the URL field, paste your Cone subscription link
+5. Tap **Save**
 
-* **Install VPN Profile 🆗**
-* **Allow "Shadowrocket" to Add VPN Configurations**
-* **Input your password when it asks**
+{% hint style="success" %}
+✅ You should now see one or more servers listed in the app.
+{% endhint %}
+{% endstep %}
 
-<figure><img src="../../../../.gitbook/assets/image (102).png" alt="" width="375"><figcaption></figcaption></figure>
+{% step %}
+## Step 4 — Connect to the VPN
 
-**✅ You’re now connected — enjoy unrestricted browsing.**
+1. Tap the switch at the top right of the app to turn it ON
 
-<figure><img src="../../../../.gitbook/assets/image (104).png" alt="" width="244"><figcaption></figcaption></figure>
+When your iPhone shows:
+
+> “Shadowrocket Would Like to Add VPN Configurations”
+
+Tap: **Allow**
+
+You may also be asked for:
+
+* Face ID
+* Touch ID
+* Passcode
+
+This is normal.
+
+{% hint style="warning" %}
+Without this permission, the VPN cannot connect.
+{% endhint %}
+
+The first time connecting may take a few seconds.
+
+✅ When connected:
+
+* The switch will turn ON
+* A VPN icon will appear on your iPhone status bar
+
+Your VPN is now working.
+{% endstep %}
+
+{% step %}
+## Step 6 — Test Your Connection
+
+Open:
+
+* YouTube
+* Google
+* ChatGPT
+* Netflix
+* Instagram
+
+If websites and apps load normally, setup is complete.
+{% endstep %}
+
+{% step %}
+## If It Doesn’t Connect
+
+Try these steps:
+
+### Fix 1 — Turn VPN Off and On
+
+1. Turn the VPN OFF
+2. Wait 5 seconds
+3. Turn it ON again
+
+***
+
+### Fix 2 — Change Server
+
+1. Open Shadowrocket
+2. Select a different server from the list
+3. Try connecting again
+
+***
+
+### Fix 3 — Update Your Subscription
+
+1. Tap and hold your subscription
+2. Tap **Update**
+
+Then try connecting again.
+{% endstep %}
+
+{% step %}
+## Common Questions
+
+### “Connected” But Websites Don’t Open
+
+Usually this means the current server is temporarily unavailable.
+
+Try another server.
+
+***
+
+### The VPN Switch Turns Off Automatically
+
+This usually happens because:
+
+* VPN permission was not allowed
+* Another VPN app is installed
+* iPhone network temporarily failed
+
+Try restarting your iPhone and reconnecting.
+
+***
+
+### Shadowrocket Says “Timeout”
+
+Usually caused by:
+
+* Poor internet connection
+* Network restrictions
+* Current server issue
+
+Try:
+
+* Switching Wi-Fi/mobile data
+* Changing servers
+* Updating subscription
 {% endstep %}
 {% endstepper %}
 
 {% hint style="warning" %}
 💡 **If One-Click setup doesn’t work** → Use **Manual Setup** below.
 {% endhint %}
+
+
 
 ***
 

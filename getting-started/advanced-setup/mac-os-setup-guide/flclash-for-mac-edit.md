@@ -16,8 +16,7 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ## Step 1: Download & Install on Mac
 
-\
-
+<br>
 
 {% hint style="success" %}
 Alternative download mirrors:

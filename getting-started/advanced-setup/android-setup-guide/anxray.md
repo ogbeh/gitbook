@@ -46,4 +46,4 @@ Open the app, Swipe right and tap on group
 
 Tap on the Plane Icon to Connect
 
-\
+<br>

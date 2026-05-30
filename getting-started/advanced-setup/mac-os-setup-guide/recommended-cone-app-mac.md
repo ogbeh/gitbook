@@ -69,4 +69,4 @@ To use the Cone app on your Mac, enable third-party apps in your settings. Open 
 <figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 6. Input your email and password in their respective fields, NOTE: Leave the 2-step verification box empty
-7. Login and Connect to enjoy\
+7. Login and Connect to enjoy<br>

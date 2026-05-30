@@ -37,7 +37,7 @@ hidden: true
 4. Wait for it to finish importing
 5. [**Go to Step 2 to connect**](copy-of-shadowrocket-setup-2.md#step-2-connect)
 
-![Quick Import Screenshot](https://2909345706-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7nyUoeiab8RZiyZ6JoFK%2Fuploads%2FVigERWo7ilgBfdDklZrn%2Fimage.png?alt=media\&token=567e7acf-859a-4bc9-a7ca-f3f4247744c4)
+<img src="https://2909345706-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7nyUoeiab8RZiyZ6JoFK%2Fuploads%2FVigERWo7ilgBfdDklZrn%2Fimage.png?alt=media&#x26;token=567e7acf-859a-4bc9-a7ca-f3f4247744c4" alt="Quick Import Screenshot" width="375">
 
 {% hint style="warning" %}
 💡 **If One-Click setup doesn’t work** → Use **Manual Setup** below.
@@ -50,7 +50,7 @@ hidden: true
 1. [**Login to your account dashboard**](https://dash.coneapp.top/) **(Sign in with your registered email and password)**
 2. Scroll to **Quick Import** and **Copy** the subscription link
 
-![Copy Link Screenshot](https://2909345706-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7nyUoeiab8RZiyZ6JoFK%2Fuploads%2FPmyWqPZRlEpf9c9Gv5r9%2FWeixin%20Image_20250113135432.png?alt=media\&token=83ee48d7-4822-4a8f-9084-ea414a1c97cc)
+<img src="https://2909345706-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7nyUoeiab8RZiyZ6JoFK%2Fuploads%2FPmyWqPZRlEpf9c9Gv5r9%2FWeixin%20Image_20250113135432.png?alt=media&#x26;token=83ee48d7-4822-4a8f-9084-ea414a1c97cc" alt="Copy Link Screenshot" width="375">
 
 3. Add the Link into Shadowrocket
    1. Open **Shadowrocket**
