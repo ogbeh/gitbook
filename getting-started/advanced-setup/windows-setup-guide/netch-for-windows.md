@@ -35,7 +35,7 @@ Download the Netch app on your Windows computer using the link below.
 
 ### &#x20;Option 1: Manual Setup
 
-1. Head to your [dashboard](https://me.coneapp.top/)
+1. Head to your [dashboard](https://my.coneaccount.com/)
 2. Scroll to the Quick Import section and tap on Copy
 
 <figure><img src="../../../.gitbook/assets/1736863160559 (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -48,11 +48,11 @@ Download the Netch app on your Windows computer using the link below.
 
 &#x20;   2\. In the Netch app, click Subscribe > Manage Subscribe Links
 
-![](<../../../.gitbook/assets/image (27).png>)
+<img src="../../../.gitbook/assets/image (27).png" alt="" width="563">
 
 3\. Paste the API link in the "Link" box. Write "Cone" in the "Remark" box
 
-![](<../../../.gitbook/assets/image (21).png>)
+<img src="../../../.gitbook/assets/image (21).png" alt="" width="509">
 
 &#x20;    4\. Click Add/Modify&#x20;
 
@@ -60,7 +60,7 @@ Download the Netch app on your Windows computer using the link below.
 
 &#x20;    6\. Go to Subscribe > Update Servers (Update Servers from Subscribe Links) to load servers
 
-![](<../../../.gitbook/assets/image (46).png>)
+<img src="../../../.gitbook/assets/image (46).png" alt="" width="563">
 
 ***
 
@@ -70,7 +70,7 @@ Download the Netch app on your Windows computer using the link below.
 2. For Mode, select Bypass Lan or Bypass Lan and China."
 3. Click Start to connect
 
-![](<../../../.gitbook/assets/image (38).png>)
+<img src="../../../.gitbook/assets/image (38).png" alt="" width="544">
 
 ### Modes
 
