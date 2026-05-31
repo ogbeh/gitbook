@@ -58,7 +58,7 @@ Make sure you copy the entire link.
 {% endstep %}
 
 {% step %}
-## Step 4 — Connect to the VPN
+## Step 4 — Connect
 
 1. Tap the switch at the top right of the app to turn it ON
 
