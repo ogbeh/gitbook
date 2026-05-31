@@ -24,7 +24,7 @@ If you have trouble setting up, Please contact customer care on Telegram [Click 
 
 ### Manual import
 
-1. [Click me to login your account dashboard ](https://me.coneapp.top/)
+1. [Click me to login your account dashboard ](https://my.coneaccount.com/)
 2. Scroll to the _Quick Import_ section _and &#x74;_&#x61;p on _Copy_ to copy your subscription URL
 
 <figure><img src="../../../.gitbook/assets/Weixin Image_20250113135432.png" alt="" width="375"><figcaption><p>Copy Subscription Link</p></figcaption></figure>
