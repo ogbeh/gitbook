@@ -8,7 +8,7 @@ icon: square-2
 {% step %}
 ## Step 1 — Install Shadowrocket
 
-If you have not installed Shadowrocket yet, please follow the Shadowrocket Installation Guide first.
+If you have not installed Shadowrocket yet, please follow the Shadowrocket Installation Guide first.👇
 
 {% content-ref url="shadowrocket-install.md" %}
 [shadowrocket-install.md](shadowrocket-install.md)
