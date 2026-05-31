@@ -4,18 +4,20 @@ icon: square-2
 
 # Shadowrocket Setup
 
-***
-
 {% stepper %}
 {% step %}
 ## Step 1 — Install Shadowrocket
 
-Download the Shadowrocket app from the App Store.
+If you have not installed Shadowrocket yet, please follow the Shadowrocket Installation Guide first.
 
-After installation, open the app.
+{% content-ref url="shadowrocket-install.md" %}
+[shadowrocket-install.md](shadowrocket-install.md)
+{% endcontent-ref %}
+
+Once Shadowrocket has been installed successfully, open the app to continue.
 
 {% hint style="success" %}
-✅ You should see the Shadowrocket home screen.
+✅ You should now see the Shadowrocket home screen.
 {% endhint %}
 {% endstep %}
 
@@ -147,7 +149,7 @@ Try:
 
 <details>
 
-<summary><strong>If It Doesn’t Connect</strong></summary>
+<summary>If It Doesn’t Connect</summary>
 
 Try these steps:
 
