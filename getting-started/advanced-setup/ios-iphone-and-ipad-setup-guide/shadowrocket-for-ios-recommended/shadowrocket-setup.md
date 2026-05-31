@@ -95,38 +95,17 @@ Open:
 
 If websites and apps load normally, setup is complete.
 {% endstep %}
+{% endstepper %}
 
-{% step %}
-## If It Doesn’t Connect
+{% hint style="warning" %}
+💡 **If One-Click setup doesn’t work** → Use **Manual Setup** below.
+{% endhint %}
 
-Try these steps:
+<details>
 
-### Fix 1 — Turn VPN Off and On
+<summary>Common Questions</summary>
 
-1. Turn the VPN OFF
-2. Wait 5 seconds
-3. Turn it ON again
 
-***
-
-### Fix 2 — Change Server
-
-1. Open Shadowrocket
-2. Select a different server from the list
-3. Try connecting again
-
-***
-
-### Fix 3 — Update Your Subscription
-
-1. Tap and hold your subscription
-2. Tap **Update**
-
-Then try connecting again.
-{% endstep %}
-
-{% step %}
-## Common Questions
 
 ### “Connected” But Websites Don’t Open
 
@@ -161,14 +140,41 @@ Try:
 * Switching Wi-Fi/mobile data
 * Changing servers
 * Updating subscription
-{% endstep %}
-{% endstepper %}
 
-{% hint style="warning" %}
-💡 **If One-Click setup doesn’t work** → Use **Manual Setup** below.
-{% endhint %}
+</details>
 
+***
 
+<details>
+
+<summary><strong>If It Doesn’t Connect</strong></summary>
+
+Try these steps:
+
+### Fix 1 — Turn VPN Off and On
+
+1. Turn the VPN OFF
+2. Wait 5 seconds
+3. Turn it ON again
+
+***
+
+### Fix 2 — Change Server
+
+1. Open Shadowrocket
+2. Select a different server from the list
+3. Try connecting again
+
+***
+
+### Fix 3 — Update Your Subscription
+
+1. Tap and hold your subscription
+2. Tap **Update**
+
+Then try connecting again.
+
+</details>
 
 ***
 
