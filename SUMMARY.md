@@ -7,7 +7,7 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Advanced Setup](getting-started/advanced-setup/README.md)
   * [iOS (iPhone and iPad) Setup Guide](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/README.md)
-    * [Shadowrocket for iOS (Recommended)](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/README.md)
+    * [👉Shadowrocket for iOS (Recommended)](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/README.md)
       * [Shadowrocket Install](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/shadowrocket-install.md)
       * [Shadowrocket Setup](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/shadowrocket-setup.md)
       * [Copy of Shadowrocket Setup](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/copy-of-shadowrocket-setup.md)
