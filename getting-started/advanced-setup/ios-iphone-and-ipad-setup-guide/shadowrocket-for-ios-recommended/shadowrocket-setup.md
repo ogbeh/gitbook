@@ -32,6 +32,8 @@ The link usually starts with:
 https://
 ```
 
+<figure><img src="../../../../.gitbook/assets/8b23a74bb4d42e10ed15d01f156325eb.png" alt="" width="375"><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 Make sure you copy the entire link.
 {% endhint %}
