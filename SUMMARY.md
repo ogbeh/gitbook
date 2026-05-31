@@ -9,6 +9,7 @@
   * [iOS (iPhone and iPad) Setup Guide](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/README.md)
     * [👉Shadowrocket for iOS (Recommended)](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/README.md)
       * [Shadowrocket Install](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/shadowrocket-install.md)
+      * [Copy of Shadowrocket Install](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/copy-of-shadowrocket-install.md)
       * [Shadowrocket Setup](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/shadowrocket-setup.md)
       * [Copy of Shadowrocket Setup](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/copy-of-shadowrocket-setup.md)
       * [🚀 Install Shadowrocket on iOS (Super Easy Guide)](getting-started/advanced-setup/ios-iphone-and-ipad-setup-guide/shadowrocket-for-ios-recommended/install-shadowrocket-on-ios-super-easy-guide.md)
