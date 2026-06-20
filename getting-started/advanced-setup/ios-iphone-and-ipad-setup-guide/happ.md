@@ -1,5 +1,5 @@
 ---
-hidden: true
+icon: apple
 ---
 
 # Happ
