@@ -22,7 +22,7 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 #### **Windows** <i class="fa-windows">:windows:</i>
 
-1. [Go to the Cone download page.](https://coneapp.top/)
+1. [Go to the Cone download page.](https://coneapp.net/)
 2. Click **Download for Windows**.
 3. Open the `.exe` file and follow the installer instructions.
 4. Launch Cone after installation.
@@ -33,7 +33,7 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 #### **macOS** <i class="fa-laptop">:laptop:</i>
 
-1. [Go to the Cone download page.](https://coneapp.top/)
+1. [Go to the Cone download page.](https://coneapp.net/)
 2. Click **Download for macOS**.
 3. Open the `.dmg` file and drag the Cone icon into **Applications**.
 4. Open Cone and log in.
@@ -44,7 +44,7 @@ Cone is available for **Windows, macOS, & Android**.&#x20;
 
 #### **Android** <i class="fa-android">:android:</i>
 
-1. [Go to the Cone download page.](https://coneapp.top/)
+1. [Go to the Cone download page.](https://coneapp.net/)
 2. Click **Download for Android**.
 3. Open the `.apk` file and install the Android app.
 4. Launch Cone after installation.
