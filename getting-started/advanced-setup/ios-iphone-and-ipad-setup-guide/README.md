@@ -7,7 +7,7 @@ icon: apple
 
 # iOS (iPhone and iPad) Setup Guide
 
-{% content-ref url="shadowrocket-for-ios-recommended/" %}
-[shadowrocket-for-ios-recommended](shadowrocket-for-ios-recommended/)
+{% content-ref url="shadowrocket/" %}
+[shadowrocket](shadowrocket/)
 {% endcontent-ref %}
 
