@@ -10,7 +10,7 @@ Please download the Happ app before proceeding, If you can't, please contact cus
 
 ## Step 1: Download Happ for iOS
 
-[Click here](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) to be redirected to the app page in the iOS App Store.
+[Click here](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215) to be redirected to the app page in the iOS App Store.
 
 {% hint style="success" %}
 After successfully installing the app, proceed below to setup
