@@ -24,7 +24,7 @@ If it is the first time using ClashX, a pop up will appear saying that the app i
 
 The first time ClashX runs, you will be prompted to install a plugin. This plugin is used to set up the system proxy, otherwise you will need to enter your administrator password each time you connect to the VPN. Click "Install" and macOS will prompt for the user password.
 
-![](<../../../.gitbook/assets/image (41).png>)
+![](<../../../.gitbook/assets/image (50).png>)
 
 ## Step 2; Configuring servers
 
@@ -34,7 +34,7 @@ The first time ClashX runs, you will be prompted to install a plugin. This plugi
 2. Click on Quick Subscription
 3. Export to ClashX
 
-![](<../../../.gitbook/assets/image (47).png>)
+![](<../../../.gitbook/assets/image (56).png>)
 
 
 
@@ -52,7 +52,7 @@ If the above doesnt work, please follow the Manual setup below
 
 1. After running ClashX, click the Clash icon (a kitten) on the menu bar, and then click “Config – Remote Config – "Manage" in the menu.
 
-![](<../../../.gitbook/assets/image (35).png>)
+![](<../../../.gitbook/assets/image (44).png>)
 
 2\.  A new window will open. Paste your Clash API link and click OK. you should see a success message.
 

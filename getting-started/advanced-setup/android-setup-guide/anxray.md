@@ -24,25 +24,25 @@ Download and Install the Client App by clicking the link below
 
 Open the app, Swipe right and tap on group
 
-![](<../../../.gitbook/assets/image (33).png>)
+![](<../../../.gitbook/assets/image (42).png>)
 
 &#x20;Tap On the + Sign
 
-![](<../../../.gitbook/assets/image (43).png>)
+![](<../../../.gitbook/assets/image (52).png>)
 
 &#x20;Tap On Group and select Subscription
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (32).png>)
 
 &#x20;Tap Subscription Link and paste the URL you copied into the Subscription Link box
 
-![](<../../../.gitbook/assets/image (36).png>)
-
 ![](<../../../.gitbook/assets/image (45).png>)
+
+![](<../../../.gitbook/assets/image (54).png>)
 
 &#x20; Tap Ok, Your Subscription should update within a few seconds
 
-![](<../../../.gitbook/assets/image (44).png>)
+![](<../../../.gitbook/assets/image (53).png>)
 
 Tap on the Plane Icon to Connect
 

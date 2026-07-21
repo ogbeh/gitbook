@@ -50,7 +50,7 @@ Once the app has been installed successfully, you can switch back to your person
 
 Tap "**Not (your account name)"**
 
-<figure><img src="../../../../.gitbook/assets/image (105).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (114).png" alt="" width="563"><figcaption></figcaption></figure>
 
 6. User our Apple account login details to login
 
@@ -60,7 +60,7 @@ Tap "**Not (your account name)"**
 8. On the **Apple Account Security** page, tap on **Other Options**
 9. Tap on **DO NOT UPGRADE**
 
-<figure><img src="../../../../.gitbook/assets/image (96).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (105).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 ✅ You should be signed in successfully.
@@ -72,7 +72,7 @@ Tap "**Not (your account name)"**
 
 Search “Shadowrocket” on the app store and download.
 
-<figure><img src="../../../../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (106).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 👉 **After successful installation**
 

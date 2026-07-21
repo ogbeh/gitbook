@@ -46,19 +46,19 @@ To use the Cone app on your Mac, enable third-party apps in your settings. Open 
 
 1. Double click the downloaded _ConeSetup.dmg_ file
 
-<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 2. Follow the prompt to drag the Cone app to your Applications Folder
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt="" width="401"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81).png" alt="" width="401"><figcaption></figcaption></figure>
 
 3. After copying, close the window, Open the applications folder and run the Cone, an app security prompt should show up
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 4. Head to **System Settings > Privacy & Security,** Click on the _Open Anyways_ option under the security notification
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -66,7 +66,7 @@ To use the Cone app on your Mac, enable third-party apps in your settings. Open 
 
 5. Open the applications folder and run the Cone app
 
-<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 6. Input your email and password in their respective fields, NOTE: Leave the 2-step verification box empty
 7. Login and Connect to enjoy<br>

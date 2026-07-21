@@ -38,7 +38,7 @@ Please choose your preferred setup method based on your needs:
 3. Enable Background Update
 4. Wait for the servers to update and then [connect to the service](copy-of-shadowrocket-setup-1.md#step-2-connect)
 
-<figure><img src="../../../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If the above doesnt work, please follow the Manual setup below
@@ -58,7 +58,7 @@ If the above doesnt work, please follow the Manual setup below
 3. Change the "Type" to **subscribe**.
 4. Paste the link into the URL box and click **Done**.
 
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (26).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 If the API doesn't work, please check the following:
@@ -75,6 +75,6 @@ If the API doesn't work, please check the following:
 1. Select a server from the server list and toggle the connection switch on the top-right.
 2. If it is the first time setting up the app, it will ask you to allow the creation of a VPN profile. Click Allow and enter your pin/touch ID/face ID.
 
-<figure><img src="../../../../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (27).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Your device will be connected.

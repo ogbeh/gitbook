@@ -34,7 +34,7 @@ To run the Clash app on your Mac, you'll need to allow third-party apps in your 
 
 1. Double click the downloaded Clash&#x58;_.dmg_ file
 
-<figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 2. Follow the prompt to drag the ClashX app to your Applications Folder
 
@@ -42,11 +42,11 @@ To run the Clash app on your Mac, you'll need to allow third-party apps in your 
 
 3. After copying, close the window, Open the applications folder and run the ClashX, an app security prompt should show up
 
-<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 4. Head to **System Settings > Privacy & Security,** Click on the _Open Anyways_ option under the secuity notification
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 3: Import the servers
 
@@ -57,7 +57,7 @@ To run the Clash app on your Mac, you'll need to allow third-party apps in your 
 
 4. Open the applications folder and run the Clash app
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 ### Paste the API
 
@@ -79,5 +79,5 @@ To run the Clash app on your Mac, you'll need to allow third-party apps in your 
 2. Choose a server from the list
 3. Select Proxy Mode : (Global) or Rule
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt="" width="555"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (91).png" alt="" width="555"><figcaption></figcaption></figure>
 

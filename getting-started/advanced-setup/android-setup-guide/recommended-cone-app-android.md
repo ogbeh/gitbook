@@ -30,6 +30,6 @@ Once the download is finished, install the _ConeSetup.apk_ on your Android devic
 1. Tap on _Select Location_
 2. Tap on any server to select it.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***

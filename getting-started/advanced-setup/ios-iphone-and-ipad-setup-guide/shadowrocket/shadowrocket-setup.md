@@ -50,7 +50,7 @@ Make sure you copy the entire link.
 
 <figure><img src="../../../../.gitbook/assets/4bce9bd8d1c16e2f71005da98d044658.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (110).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (119).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 ✅ You should now see one or more servers listed in the app.
@@ -76,7 +76,7 @@ You may also be asked for:
 
 This is normal.
 
-<figure><img src="../../../../.gitbook/assets/image (111).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (120).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Without this permission, the VPN cannot connect.

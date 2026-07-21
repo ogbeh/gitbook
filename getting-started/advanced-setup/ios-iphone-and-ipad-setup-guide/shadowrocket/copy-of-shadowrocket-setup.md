@@ -21,7 +21,7 @@ icon: square-2
 
 1. **On your iPhone/iPad📱, open&#x20;**<mark style="color:purple;">**Safari**</mark>**&#x20;browser or&#x20;**<mark style="color:yellow;">**Google Chrome**</mark>&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (107).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Navigate t**
 
@@ -37,17 +37,17 @@ icon: square-2
 
 **After the&#x20;**<mark style="color:$success;">**Success**</mark>**&#x20;prompt, tap on the button to connect**
 
-<figure><img src="../../../../.gitbook/assets/image (101).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (110).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * **Install VPN Profile 🆗**
 * **Allow "Shadowrocket" to Add VPN Configurations**
 * **Input your password when it asks**
 
-<figure><img src="../../../../.gitbook/assets/image (102).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (111).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **✅ You’re now connected — enjoy unrestricted browsing.**
 
-<figure><img src="../../../../.gitbook/assets/image (104).png" alt="" width="244"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (113).png" alt="" width="244"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

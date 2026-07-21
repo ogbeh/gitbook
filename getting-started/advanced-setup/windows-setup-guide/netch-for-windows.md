@@ -48,11 +48,11 @@ Download the Netch app on your Windows computer using the link below.
 
 &#x20;   2\. In the Netch app, click Subscribe > Manage Subscribe Links
 
-<img src="../../../.gitbook/assets/image (27).png" alt="" width="563">
+<img src="../../../.gitbook/assets/image (36).png" alt="" width="563">
 
 3\. Paste the API link in the "Link" box. Write "Cone" in the "Remark" box
 
-<img src="../../../.gitbook/assets/image (21).png" alt="" width="509">
+<img src="../../../.gitbook/assets/image (30).png" alt="" width="509">
 
 &#x20;    4\. Click Add/Modify&#x20;
 
@@ -60,7 +60,7 @@ Download the Netch app on your Windows computer using the link below.
 
 &#x20;    6\. Go to Subscribe > Update Servers (Update Servers from Subscribe Links) to load servers
 
-<img src="../../../.gitbook/assets/image (46).png" alt="" width="563">
+<img src="../../../.gitbook/assets/image (55).png" alt="" width="563">
 
 ***
 
@@ -70,7 +70,7 @@ Download the Netch app on your Windows computer using the link below.
 2. For Mode, select Bypass Lan or Bypass Lan and China."
 3. Click Start to connect
 
-<img src="../../../.gitbook/assets/image (38).png" alt="" width="544">
+<img src="../../../.gitbook/assets/image (47).png" alt="" width="544">
 
 ### Modes
 
@@ -100,7 +100,7 @@ Follow the instructions below to solve this issue
 
 1. &#x20;After the app is done downloading, it will show the prompt below. Tap on the 3-dot  on the right and click on _Keep_
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 2. On the next prompt. click on Show more > Keep anyway; this will allow the browser to trust the app
 

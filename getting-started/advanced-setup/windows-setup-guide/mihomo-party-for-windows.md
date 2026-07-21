@@ -27,7 +27,7 @@ If you are using 32-bit Windows, then use the link below
 1. Once the download completes, run the installer file to install and follow the installation steps
 2. Run the Mihomo party app
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -60,7 +60,7 @@ If you are using 32-bit Windows, then use the link below
 1. Toggle the "Sys Proxy" switch to connect
 2. You are now connected.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Modes:
@@ -76,7 +76,7 @@ Rule: Websites go to different servers based on pre-configured rule sets.
 2. Click the "**<"**  to drop down the server list
 3. Select a server from the list
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 To disconnect: Toggle the "System Proxy" switch again

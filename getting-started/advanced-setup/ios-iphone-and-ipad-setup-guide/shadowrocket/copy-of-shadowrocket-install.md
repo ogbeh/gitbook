@@ -34,13 +34,13 @@ icon: square-1
 
 <div align="center"><figure><img src="../../../../.gitbook/assets/1.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **DO NOT Add your phone number during sign in**
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ icon: square-1
 
 Search “Shadowrocket” on the app store and download.
 
-<figure><img src="../../../../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (106).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 👉 **After successful installation,** [**Click here to proceed to Shadwrocket Setup**](https://help.coneapp.top/ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup)
 

@@ -14,39 +14,39 @@ In Control Panel, click on “Network and Internet”and then “Network and Sha
 
 
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 3: Choose the connection**
 
 In the Network and Sharing Center, choose the internet connection you want to change the DNS settings for. Your active connection is usually named “Wi-Fi” or “Ethernet” and is located on the right-hand side of the window.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 4: Change adapter settings**
 
 In the new window, you will see general information about your connection. Click on the “Properties” button.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 5: Choose Internet Protocol Version 4 (TCP/IPv4)**
 
 In the “Properties” window, scroll down to find “Internet Protocol Version 4 (TCP/IPv4)” and click on it to highlight it.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 6: Click on Properties**
 
 Click on the “Properties” button located below the list of network protocols.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 7: Choose “Use the following DNS server addresses”**
 
 In the Internet Protocol Version 4 (TCP/IPv4) Properties window, click on the radio button next to “Use the following
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 8: Input the DNS server**
 
@@ -62,13 +62,13 @@ In the “Preferred DNS server” field, enter: **114.114.114.114**
 In the “Alternate DNS server” field, enter: **8.8.8.8**
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 9: Save the changes**
 
 Click on the “OK” button to save the changes you made to the DNS settings.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 10: Restart Windows**
 

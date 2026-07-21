@@ -62,7 +62,7 @@ Invite friends to Cone and earn commission rewards.
 
 * View commission payment records
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -82,7 +82,7 @@ Under **User → Settings**, you can:
 
 Monitor your bandwidth usage upto 30 days
 
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -94,7 +94,7 @@ Under **Questions**, you can:
 * Contact support
 * Submit a ticket
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 
 

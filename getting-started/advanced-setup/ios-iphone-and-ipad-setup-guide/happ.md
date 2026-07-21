@@ -33,11 +33,11 @@ After successfully installing the app, proceed below to setup
 2. Click on the "+" icon on the top right corner.
 3. Tap on **Subscription URL**
 
-<figure><img src="../../../.gitbook/assets/image (112).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (121).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Paste the link into the **URL** box, then tap on **Done**
 
-<figure><img src="../../../.gitbook/assets/image (113).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (122).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Step 3: Connect**
 
@@ -45,4 +45,4 @@ After successfully installing the app, proceed below to setup
 2. First time will ask you to **Add VPN Configuratio**. Click Allow and enter your pin/touch ID/face ID.
 3. Your device will be connected.
 
-<figure><img src="../../../.gitbook/assets/image (115).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (124).png" alt="" width="563"><figcaption></figcaption></figure>

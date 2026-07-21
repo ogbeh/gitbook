@@ -74,7 +74,7 @@ If One-Click setup does not work, please follow the manual setup below
 2. Select **URL**  (Obtain profile through URL)
 3. Paste your subscription URL in the "URL" box and click "Submit."
 
-<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 4. Your server list has now been downloaded to the app.
 
@@ -87,7 +87,7 @@ If One-Click setup does not work, please follow the manual setup below
 1. Tap on the 📄 icon to access the server list
 2. Select a server from the list
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 ### Connect
 

@@ -36,7 +36,7 @@ To run the FlClash app on your Mac, you'll need to allow third-party apps in you
 
 1. Double click the downloaded FlClas&#x68;_.dmg_ file (We will use ClashX as an example)
 
-<figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 2. Follow the prompt to drag the app to your Applications Folder
 
@@ -44,11 +44,11 @@ To run the FlClash app on your Mac, you'll need to allow third-party apps in you
 
 3. After copying, close the window, Open the applications folder and run the ClashX, an app security prompt should show up
 
-<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 4. Head to **System Settings > Privacy & Security,** Click on the _Open Anyways_ option under the secuity notification
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ### **🌍 Step 2: Add the Servers**
 
@@ -63,7 +63,7 @@ To run the FlClash app on your Mac, you'll need to allow third-party apps in you
 2. Select **URL**  (Obtain profile through URL)
 3. Paste your subscription URL in the "URL" box and click "Submit."
 
-<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 4. Your server list has now been downloaded to the app.
 
@@ -76,7 +76,7 @@ To run the FlClash app on your Mac, you'll need to allow third-party apps in you
 1. Tap on the 📄 icon to access the server list
 2. Select a server from the list
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 ### Connect
 

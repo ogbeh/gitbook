@@ -41,7 +41,7 @@ Follow the instructions below to solve this issue
 
 1. &#x20;After the app is done downloading, it will show the prompt below. Tap on the 3-dot  on the right and click on _Keep_
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 2. On the next prompt. click on Show more > Keep anyway; this will allow the browser to trust the app
 
@@ -49,4 +49,4 @@ Follow the instructions below to solve this issue
 
 5. Click on Open file to run the installer
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>

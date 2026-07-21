@@ -39,7 +39,7 @@ Download on [Github](https://github.com/clashdownload/ClashX/releases/download/1
 
 4. Open the applications folder and run the Clash app
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 ### Paste the API
 
@@ -61,5 +61,5 @@ Download on [Github](https://github.com/clashdownload/ClashX/releases/download/1
 2. Choose a server from the list
 3. Select Proxy Mode : (Global) or Rule
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt="" width="555"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (91).png" alt="" width="555"><figcaption></figcaption></figure>
 

@@ -33,11 +33,11 @@ NOTE: Please use the alternate download link if Download Link 1 does not work
 
 1. Open the Surfboard app and tap on _Profiles_ > ➕
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Import from URL > Paste URL into the box, then tap on _Import_;&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (78).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
@@ -45,14 +45,14 @@ NOTE: Please use the alternate download link if Download Link 1 does not work
 
 1. Return to Dashboard > Tap on ▶️ > Allow connection requests when your device is connected!
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (79).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Step 4. Selecting Servers
 
 1. Tap on Proxies
 2. Pick any server of your choice listed
 
-<figure><img src="../../../.gitbook/assets/image (71).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
