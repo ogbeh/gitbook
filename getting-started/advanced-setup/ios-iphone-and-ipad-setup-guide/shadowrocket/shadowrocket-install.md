@@ -17,8 +17,6 @@ icon: square-1
 
 ## Install Shadowrocket
 
-[Download the Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) app from the App Store.
-
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>👉<a href="https://apps.apple.com/us/app/shadowrocket/id932747118">Download Shadworcket</a></td></tr></tbody></table>
 
 ✅ You should see the Shadowrocket home screen.

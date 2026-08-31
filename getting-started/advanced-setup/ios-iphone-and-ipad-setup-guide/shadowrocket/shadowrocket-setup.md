@@ -8,7 +8,19 @@ icon: square-2
 {% step %}
 ## Step 1 — Install Shadowrocket
 
-If you have not installed Shadowrocket yet, please follow the Shadowrocket Installation Guide first.👇
+{% hint style="warning" %}
+### Note
+
+#### Shadowrocket is a paid app on the App Store. Please purchase it yourself
+
+#### If you cannot find it, you need to switch to another App Store region.
+{% endhint %}
+
+***
+
+## Install Shadowrocket
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>👉<a href="https://apps.apple.com/us/app/shadowrocket/id932747118">Download Shadworcket</a></td></tr></tbody></table>
 
 {% content-ref url="shadowrocket-install.md" %}
 [shadowrocket-install.md](shadowrocket-install.md)
