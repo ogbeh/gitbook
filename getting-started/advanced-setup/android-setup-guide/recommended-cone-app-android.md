@@ -16,7 +16,7 @@ Download the Cone app on your Android phone using the link(s) below.
 
 [**Download Link 1**](https://appdl.coneapp.top/soft/android/cone/new/cone_android.apk)
 
-[**lternate Download Link**](https://www.mediafire.com/file/ak3ivj366m2lz3m/cone_android.apk/file)
+[**Alternate Download Link**](https://www.mediafire.com/file/ak3ivj366m2lz3m/cone_android.apk/file)
 
 Once the download is finished, install the _ConeSetup.apk_ on your Android device.
 
