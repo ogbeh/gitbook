@@ -8,9 +8,9 @@ icon: square-1
 {% hint style="warning" %}
 ### Note
 
-#### Shadowrocket is a paid app on the App Store.&#x20;
+#### Shadowrocket is a paid app on the App Store. Please purchase it yourself
 
-#### If you cannot find it in your region, you may need to switch to another App Store region.
+#### If you cannot find it, you need to switch to another App Store region.
 {% endhint %}
 
 ***
@@ -19,7 +19,7 @@ icon: square-1
 
 [Download the Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) app from the App Store.
 
-After installation, open the app.
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>👉<a href="https://apps.apple.com/us/app/shadowrocket/id932747118">Download Shadworcket</a></td></tr></tbody></table>
 
 ✅ You should see the Shadowrocket home screen.
 
