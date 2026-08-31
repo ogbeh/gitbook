@@ -12,6 +12,8 @@ Please download the Happ app before proceeding, If you can't, please contact cus
 
 [Click here](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215) to be redirected to the app page in the iOS App Store.
 
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th></th></tr></thead><tbody><tr><td><a href="https://apps.apple.com/us/app/happ-proxy-utility/id6504287215">https://apps.apple.com/us/app/happ-proxy-utility/id6504287215</a></td><td>Click here to download</td></tr></tbody></table>
+
 {% hint style="success" %}
 After successfully installing the app, proceed below to setup
 {% endhint %}
