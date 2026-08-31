@@ -4,21 +4,17 @@ icon: square-2
 
 # Shadowrocket Setup
 
-{% stepper %}
-{% step %}
-## Step 1 — Install Shadowrocket
-
 {% hint style="warning" %}
 ### Note
 
-#### Shadowrocket is a paid app on the App Store. Please purchase it yourself
+Shadowrocket is a paid app on the App Store. Please purchase it yourself
 
-#### If you cannot find it, you need to switch to another App Store region.
+If you cannot find it, you need to switch to another App Store region.
 {% endhint %}
 
-***
-
-## Install Shadowrocket
+{% stepper %}
+{% step %}
+## Step 1 — Install Shadowrocket
 
 <table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center">👉<a href="https://apps.apple.com/us/app/shadowrocket/id932747118">Download Shadworcket</a></td></tr></tbody></table>
 
