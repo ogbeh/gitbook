@@ -10,8 +10,6 @@ Please download the Happ app before proceeding, If you can't, please contact cus
 
 ## Step 1: Download Happ for iOS
 
-[Click here](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215) to be redirected to the app page in the iOS App Store.
-
 <table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="https://apps.apple.com/us/app/happ-proxy-utility/id6504287215">Download Happ</a></td></tr></tbody></table>
 
 {% hint style="success" %}
