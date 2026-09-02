@@ -8,7 +8,7 @@ icon: rocket-launch
 [guide-switch-apple-account.md](../guide-switch-apple-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="shadowrocket-setup.md" %}
-[shadowrocket-setup.md](shadowrocket-setup.md)
+{% content-ref url="../shadowrocket.md" %}
+[shadowrocket.md](../shadowrocket.md)
 {% endcontent-ref %}
 

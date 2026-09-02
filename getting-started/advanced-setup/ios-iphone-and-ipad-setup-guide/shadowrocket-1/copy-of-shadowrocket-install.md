@@ -77,8 +77,8 @@ Search “Shadowrocket” on the app store and download.
 
 #### &#x20;[**Click here to proceed to Shadwrocket Setup**](https://help.coneapp.top/ios-iphone-and-ipad-setup-guide/recommended-shadowrocket-for-ios/shadowrocket-setup)
 
-{% content-ref url="shadowrocket-setup.md" %}
-[shadowrocket-setup.md](shadowrocket-setup.md)
+{% content-ref url="../shadowrocket.md" %}
+[shadowrocket.md](../shadowrocket.md)
 {% endcontent-ref %}
 
 ***

@@ -44,8 +44,8 @@ Once the app has been installed successfully, you can switch back to your person
 {% endstep %}
 {% endstepper %}
 
-{% content-ref url="shadowrocket/shadowrocket-setup.md" %}
-[shadowrocket-setup.md](shadowrocket/shadowrocket-setup.md)
+{% content-ref url="shadowrocket.md" %}
+[shadowrocket.md](shadowrocket.md)
 {% endcontent-ref %}
 
 ***

@@ -2,7 +2,7 @@
 icon: square-2
 ---
 
-# Shadowrocket Setup
+# Shadowrocket
 
 {% hint style="warning" %}
 ### Note
@@ -18,8 +18,8 @@ If you cannot find it, you need to switch to another App Store region.
 
 <table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center">👉<a href="https://apps.apple.com/us/app/shadowrocket/id932747118"><strong>Download Shadworcket</strong></a></td></tr></tbody></table>
 
-{% content-ref url="../guide-switch-apple-account.md" %}
-[guide-switch-apple-account.md](../guide-switch-apple-account.md)
+{% content-ref url="guide-switch-apple-account.md" %}
+[guide-switch-apple-account.md](guide-switch-apple-account.md)
 {% endcontent-ref %}
 
 Once Shadowrocket has been installed successfully, open the app to continue.
@@ -40,7 +40,7 @@ The link usually starts with:
 https://
 ```
 
-<figure><img src="../../../../.gitbook/assets/8b23a74bb4d42e10ed15d01f156325eb.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8b23a74bb4d42e10ed15d01f156325eb.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Make sure you copy the entire link.
@@ -56,9 +56,9 @@ Make sure you copy the entire link.
 4. In the URL field, paste your Cone subscription link
 5. Tap **Save**
 
-<figure><img src="../../../../.gitbook/assets/4bce9bd8d1c16e2f71005da98d044658.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4bce9bd8d1c16e2f71005da98d044658.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (119).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (119).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 ✅ You should now see one or more servers listed in the app.
@@ -84,7 +84,7 @@ You may also be asked for:
 
 This is normal.
 
-<figure><img src="../../../../.gitbook/assets/image (120).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (120).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Without this permission, the VPN cannot connect.

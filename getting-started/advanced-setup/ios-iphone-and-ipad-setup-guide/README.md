@@ -9,7 +9,7 @@ icon: apple
 [happ.md](happ.md)
 {% endcontent-ref %}
 
-{% content-ref url="shadowrocket/" %}
-[shadowrocket](shadowrocket/)
+{% content-ref url="shadowrocket-1/" %}
+[shadowrocket-1](shadowrocket-1/)
 {% endcontent-ref %}
 
