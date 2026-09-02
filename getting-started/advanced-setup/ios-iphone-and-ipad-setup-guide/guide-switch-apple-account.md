@@ -26,11 +26,19 @@ icon: square-1
 * Tap on Apple Account Sign in
 * Choose "Not xxxx xxxx"
 
-<figure><img src="../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (126).png" alt="" width="563"><figcaption></figcaption></figure>
 
-ff
 
-<figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+
+* Input the email and password
+* Then tap on **Continue**
+
+<p align="center"><br><img src="../../../.gitbook/assets/93c7d917ff99030986a63287f63e65fa.png" alt="" data-size="original"></p>
+
+* Select other options
+* Do not upgrade
+
+<figure><img src="../../../.gitbook/assets/image (128).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 ✅ You should be signed in successfully.
@@ -39,14 +47,8 @@ ff
 {% hint style="info" %}
 Once the app has been installed successfully, you can switch back to your personal Apple ID normally.
 {% endhint %}
-
-
 {% endstep %}
 {% endstepper %}
-
-{% content-ref url="shadowrocket.md" %}
-[shadowrocket.md](shadowrocket.md)
-{% endcontent-ref %}
 
 ***
 
