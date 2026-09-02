@@ -5,7 +5,13 @@ icon: square-1
 
 # Guide: Switch Apple account
 
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="https://app.alekwu.top/soft/shrkios.html">Shared Apple ID Account</a></td></tr></tbody></table>
+{% hint style="warning" %}
+#### If Shadowrocket is not available in your App Store region, you can try using our shared Apple ID to download the app.
+
+#### We cannot guarantee our account availability, but you can follow the steps below and try.
+{% endhint %}
+
+<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center">👉<a href="https://app.alekwu.top/soft/shrkios.html">Shared Apple ID Account</a></td></tr></tbody></table>
 
 {% stepper %}
 {% step %}

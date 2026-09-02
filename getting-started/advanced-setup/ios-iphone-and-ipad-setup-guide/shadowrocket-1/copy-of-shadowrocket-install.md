@@ -24,12 +24,6 @@ icon: square-1
 
 ***
 
-{% hint style="warning" %}
-#### If Shadowrocket is not available in your App Store region, you can try using our Apple ID to download the app.
-
-#### We cannot guarantee our account availability, but you can follow the steps below and try.
-{% endhint %}
-
 {% hint style="info" %}
 Once the app has been installed successfully, you can switch back to your personal Apple ID normally.
 {% endhint %}

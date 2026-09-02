@@ -7,9 +7,9 @@ icon: square-2
 {% hint style="warning" %}
 ### Note
 
-Shadowrocket is a paid app on the App Store. Please purchase it yourself
+#### **Shadowrocket is a paid app on the App Store. Please purchase it yourself**
 
-If you cannot find it, you need to switch to another App Store region.
+#### **If you cannot find it, you need to switch to another App Store region.**
 {% endhint %}
 
 {% stepper %}
