@@ -16,3 +16,5 @@ icon: apple
 {% content-ref url="guide-switch-apple-account.md" %}
 [guide-switch-apple-account.md](guide-switch-apple-account.md)
 {% endcontent-ref %}
+
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="happ.md">happ.md</a></td></tr><tr><td><a href="shadowrocket.md">shadowrocket.md</a></td></tr><tr><td><a href="guide-switch-apple-account.md">guide-switch-apple-account.md</a></td></tr></tbody></table>
