@@ -13,3 +13,6 @@ icon: apple
 [shadowrocket-1](shadowrocket-1/)
 {% endcontent-ref %}
 
+{% content-ref url="guide-switch-apple-account.md" %}
+[guide-switch-apple-account.md](guide-switch-apple-account.md)
+{% endcontent-ref %}
