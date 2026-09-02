@@ -9,8 +9,8 @@ icon: apple
 [happ.md](happ.md)
 {% endcontent-ref %}
 
-{% content-ref url="shadowrocket-1/" %}
-[shadowrocket-1](shadowrocket-1/)
+{% content-ref url="shadowrocket.md" %}
+[shadowrocket.md](shadowrocket.md)
 {% endcontent-ref %}
 
 {% content-ref url="guide-switch-apple-account.md" %}
