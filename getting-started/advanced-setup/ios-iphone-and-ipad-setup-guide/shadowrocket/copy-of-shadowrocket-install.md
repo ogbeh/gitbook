@@ -1,5 +1,6 @@
 ---
 description: Shadowrocket Install guide for iOS devices
+hidden: true
 icon: square-1
 ---
 

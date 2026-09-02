@@ -12,8 +12,8 @@ Please download the Shadowrocket app before proceeding, If you can't, please con
 Please click the link below for instructions on how to download and install the app
 {% endhint %}
 
-{% content-ref url="guide-switch-apple-account.md" %}
-[guide-switch-apple-account.md](guide-switch-apple-account.md)
+{% content-ref url="../guide-switch-apple-account.md" %}
+[guide-switch-apple-account.md](../guide-switch-apple-account.md)
 {% endcontent-ref %}
 
 {% hint style="success" %}

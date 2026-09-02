@@ -9,7 +9,7 @@ icon: square-2
 
 ✅ This guide starts **AFTER** you have already installed Shadowrocket.\
 ❌ If you don’t have the app yet:\
-👉 [**Go here to download & install it first**](guide-switch-apple-account.md)
+👉 [**Go here to download & install it first**](../guide-switch-apple-account.md)
 
 
 

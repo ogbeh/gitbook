@@ -18,8 +18,8 @@ If you cannot find it, you need to switch to another App Store region.
 
 <table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center">👉<a href="https://apps.apple.com/us/app/shadowrocket/id932747118"><strong>Download Shadworcket</strong></a></td></tr></tbody></table>
 
-{% content-ref url="guide-switch-apple-account.md" %}
-[guide-switch-apple-account.md](guide-switch-apple-account.md)
+{% content-ref url="../guide-switch-apple-account.md" %}
+[guide-switch-apple-account.md](../guide-switch-apple-account.md)
 {% endcontent-ref %}
 
 Once Shadowrocket has been installed successfully, open the app to continue.

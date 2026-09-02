@@ -21,7 +21,7 @@ Apps Connect is not available on Chinese-mainland apple accounts
 
 ***
 
-[>>Download the app using our Apple ID<<](shadowrocket/guide-switch-apple-account.md)
+[>>Download the app using our Apple ID<<](guide-switch-apple-account.md)
 {% endhint %}
 
 1. [Click here](https://apps.apple.com/us/app/apps-connect/id1643688878) to be redirected to the app page in the iOS App Store.
