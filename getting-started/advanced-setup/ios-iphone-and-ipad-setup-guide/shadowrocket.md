@@ -16,7 +16,7 @@ icon: square-2
 {% step %}
 ## Step 1 — Install Shadowrocket
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td>Download Shadworcket</td><td><a href="https://apps.apple.com/us/app/shadowrocket/id932747118">https://apps.apple.com/us/app/shadowrocket/id932747118</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td>Download Shadworcket</td><td><a href="https://app.gitbook.com/s/7nyUoeiab8RZiyZ6JoFK/getting-started">Getting Started</a></td></tr></tbody></table>
 
 {% content-ref url="guide-switch-apple-account.md" %}
 [guide-switch-apple-account.md](guide-switch-apple-account.md)
