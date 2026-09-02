@@ -20,12 +20,6 @@ icon: square-2
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Download</strong></td><td>Shadowrocket on App Store</td><td><a href="https://apps.apple.com/us/app/shadowrocket/id932747118">https://apps.apple.com/us/app/shadowrocket/id932747118</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Download Shadworcket</td><td><a href="https://apps.apple.com/us/app/shadowrocket/id932747118">https://apps.apple.com/us/app/shadowrocket/id932747118</a></td></tr></tbody></table>
-
-{% content-ref url="guide-switch-apple-account.md" %}
-[guide-switch-apple-account.md](guide-switch-apple-account.md)
-{% endcontent-ref %}
-
 Once Shadowrocket has been installed successfully, open the app to continue.
 
 {% hint style="success" %}
@@ -37,6 +31,8 @@ Once Shadowrocket has been installed successfully, open the app to continue.
 ## Step 2 — Copy Your Cone Subscription Link
 
 [Click here Log in](https://my.coneaccount.com/) to your Cone dashboard and copy your subscription link.
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Click here to access your Cone account.</td><td><a href="https://my.coneaccount.com/">https://my.coneaccount.com/</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/image (129).png">image (129).png</a></td></tr></tbody></table>
 
 The link usually starts with:
 
