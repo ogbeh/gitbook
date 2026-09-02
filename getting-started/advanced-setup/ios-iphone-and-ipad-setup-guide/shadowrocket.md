@@ -30,9 +30,7 @@ Once Shadowrocket has been installed successfully, open the app to continue.
 {% step %}
 ## Step 2 — Copy Your Cone Subscription Link
 
-[Click here Log in](https://my.coneaccount.com/) to your Cone dashboard and copy your subscription link.
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Click here to access your Cone account.</td><td><a href="https://my.coneaccount.com/">https://my.coneaccount.com/</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/image (129).png">image (129).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Copy Subscription Link</strong></td><td><em>Click here to access your Cone account and copy your link</em></td><td><a href="https://my.coneaccount.com/">https://my.coneaccount.com/</a></td><td></td></tr></tbody></table>
 
 The link usually starts with:
 
