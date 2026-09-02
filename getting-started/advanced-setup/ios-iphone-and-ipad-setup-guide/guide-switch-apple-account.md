@@ -5,6 +5,8 @@ icon: square-1
 
 # Guide: Switch Apple account
 
+<table data-view="cards"><thead><tr><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><a href="https://app.alekwu.top/soft/shrkios.html">Shared Apple ID Account</a></td><td></td></tr></tbody></table>
+
 {% stepper %}
 {% step %}
 ### Sign out of your current account
